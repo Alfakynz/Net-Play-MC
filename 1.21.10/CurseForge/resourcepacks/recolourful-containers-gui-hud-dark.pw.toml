@@ -1,0 +1,13 @@
+name = "Recolourful Containers GUI + HUD (DARK)"
+filename = "Recolourful Containers DARK 3.0.1 (1.19.4+).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e59babba8ffe884a8c33c67918c83a6746113d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7159937
+project-id = 1091375

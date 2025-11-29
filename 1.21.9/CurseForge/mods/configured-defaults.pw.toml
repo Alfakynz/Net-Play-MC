@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.9.0+mc1.21.9-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31072493295c2bd9381aed1f066dc362ea02ee39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7065590
+project-id = 930131

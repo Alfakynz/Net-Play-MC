@@ -1,0 +1,13 @@
+name = "Remove Reloading Screen"
+filename = "rrls-5.1.10+mc1.21.8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67a56e46366bc3f6bcab16d448604f1a39d9010e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7055743
+project-id = 833233

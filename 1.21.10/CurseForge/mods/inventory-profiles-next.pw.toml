@@ -1,0 +1,13 @@
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-fabric-1.21.10-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c75203374883343b5946af79b9b1063ce13594f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7200192
+project-id = 495267

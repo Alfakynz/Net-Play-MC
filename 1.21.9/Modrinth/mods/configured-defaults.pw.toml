@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "ConfiguredDefaults-v21.9.0+mc1.21.9-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/4oQjH4aX/ConfiguredDefaults-v21.9.0%2Bmc1.21.9-Fabric.jar"
+hash-format = "sha512"
+hash = "8d27f5f9734c534c5c42346d87a8f076386db0f4820e0e51d4e0c4240b64ca6fc401f6371d14da7bc35c28eabe13a73c203c378253f6fa7814c39883904592fe"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "4oQjH4aX"
