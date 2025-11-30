@@ -85,6 +85,10 @@ file = "configureddefaults/options.txt"
 hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
+file = "icon.png"
+hash = "265e03cb76e0e3051518c4bac6355a4df9a8e76ada371746761d8d15053bd448"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7467a101c890769c5d0796e1a4d646074ef8f96c9c1d2995dbb0f3972ea49916"
 metafile = true
@@ -102,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "40689be20accc38efc34b4571800866ef0d5cc835b8b5cc60e7ecfcb1282718d"
 metafile = true
 
 [[files]]

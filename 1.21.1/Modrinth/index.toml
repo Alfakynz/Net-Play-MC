@@ -85,6 +85,10 @@ file = "configureddefaults/options.txt"
 hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
+file = "icon.png"
+hash = "265e03cb76e0e3051518c4bac6355a4df9a8e76ada371746761d8d15053bd448"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f6ecd46f2cf0e9387fa45c31184f40d361efd70f5645bad8876b51764ca6fdf5"
 metafile = true
@@ -97,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "043b2b94a775368afe4db8c66f5414dbabf55bb7630b4b8859d33ccb32d1d23a"
 metafile = true
 
 [[files]]

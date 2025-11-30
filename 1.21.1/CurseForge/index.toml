@@ -85,6 +85,10 @@ file = "configureddefaults/options.txt"
 hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
+file = "icon.png"
+hash = "265e03cb76e0e3051518c4bac6355a4df9a8e76ada371746761d8d15053bd448"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "f53a77d8e152c94ab65a613dc222b13585b173a38141d74076a3e3ffc0575519"
 metafile = true
@@ -92,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "9ce55dc09b4b2a28b39ae47d146cfe5399dfc74666d9ae53811bdef4058b3491"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "424b579f2216c3ae3b2f64020635230e5493cdd8950635c9ba905c0487f6ecee"
 metafile = true
 
 [[files]]

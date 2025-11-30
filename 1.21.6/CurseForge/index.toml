@@ -133,6 +133,10 @@ file = "configureddefaults/options.txt"
 hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
+file = "icon.png"
+hash = "265e03cb76e0e3051518c4bac6355a4df9a8e76ada371746761d8d15053bd448"
+
+[[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
 hash = "f186361722ed93165d61b42169ee0495310f7032b32a77f0f09c34f1c8dff6e3"
 
@@ -172,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b5b0ae54a96d2a7a40c9077a3385df4a0c2564d86a0dfb27bc4300390e14194b"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "90a4d807a4ea4215f7743fc0f42834b0ec800e323e3f64e57736d97bb085abf7"
 metafile = true
 
 [[files]]

@@ -85,6 +85,10 @@ file = "configureddefaults/options.txt"
 hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
+file = "icon.png"
+hash = "265e03cb76e0e3051518c4bac6355a4df9a8e76ada371746761d8d15053bd448"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "b02781d76c40ef6ab84db4c211c5e480b9d6615f03577a3e3ec2afc72356a0b4"
 metafile = true
@@ -97,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "02a609de09efd7cadb420e44e392d6b48d62ec92ffefcbef4af4511bc8b33ac2"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "27725428090c668a19c50483c33d5fffe5908c4e97f056ebbd43c957337ea190"
 metafile = true
 
 [[files]]
