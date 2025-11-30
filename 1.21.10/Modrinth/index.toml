@@ -49,6 +49,10 @@ file = "configureddefaults/config/shouldersurfing-client.toml"
 hash = "880d1725e8bc4b9a4fb2753a5d698fa380d822afb007cd92d618e7254ea3ff33"
 
 [[files]]
+file = "configureddefaults/config/skinshuffle/config.json"
+hash = "662c8542ea661fc5321a22e99df6dafd0d6055ed0416a3fc767df130a9953a52"
+
+[[files]]
 file = "configureddefaults/journeymap/config/6.0/journeymap.core.config"
 hash = "f186361722ed93165d61b42169ee0495310f7032b32a77f0f09c34f1c8dff6e3"
 
@@ -86,7 +90,7 @@ hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
 file = "icon.png"
-hash = "265e03cb76e0e3051518c4bac6355a4df9a8e76ada371746761d8d15053bd448"
+hash = "c36c0efbe5be0b9cf0fdfe54dbe17bea53295ac2a372d1203aa0f5c9c68d2bc7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -351,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "2d407ac870c9f5b4f651c7e98710d001a0a1887e94fc575778306770e2f40faa"
 metafile = true
 
 [[files]]

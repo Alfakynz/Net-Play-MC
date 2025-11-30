@@ -2,6 +2,10 @@
 
 A maintained modpack for multiplayer with optimization and QoL mods. Created for my Minecraft instances, where I spent hours configuring the same configs accross each Minecraft versions.
 
+## 📦 Installation
+
+You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play-mc) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/net-play-mc).
+
 ## 🧩 Mods, resource packs and shaders
 
 | Minecraft                                                                        | 1.21.1 | 1.21.5 | 1.21.6 | 1.21.7 | 1.21.8 | 1.21.9 | 1.21.10 |
@@ -54,6 +58,7 @@ A maintained modpack for multiplayer with optimization and QoL mods. Created for
 | [Remove Reloading Screen](https://modrinth.com/project/ZP7xHXtw)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [Shoulder Surfing Reloaded](https://modrinth.com/project/kepjj2sy)               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
+| [Skin Shuffle](https://modrinth.com/project/3s19I5jr).                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [Smooth Scrolling](https://modrinth.com/project/CllP7wW0)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [Sodium Extra](https://modrinth.com/project/PtjYWJkn)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [Sodium Shadowy Path Blocks](https://modrinth.com/project/EIa1eiMm)              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
@@ -67,6 +72,7 @@ A maintained modpack for multiplayer with optimization and QoL mods. Created for
 | [Zoomify](https://modrinth.com/project/w7ThoJFB)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [[EMF] Entity Model Features](https://modrinth.com/project/4I1XuqiY)             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1)           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
+| [e4mc](https://modrinth.com/project/qANg5Jrr)                                    | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌      |
 | [libIPN](https://modrinth.com/project/onSQdWhM)                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [(Bee's) Fancy Crops](https://modrinth.com/project/UGEVQ6t9)                     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |
 | [3D Default](https://modrinth.com/project/5aPp18Lx)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      |

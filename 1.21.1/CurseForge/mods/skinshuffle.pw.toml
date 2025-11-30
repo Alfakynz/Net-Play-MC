@@ -1,0 +1,13 @@
+name = "Skin Shuffle"
+filename = "SkinShuffle-2.9.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "850c8d617c7a8a69148a2a44aff7f8a16c0c2a9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6496045
+project-id = 876386
