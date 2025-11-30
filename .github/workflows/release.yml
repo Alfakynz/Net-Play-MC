@@ -56,13 +56,14 @@ jobs:
           upload_url="${upload_url%%\{*}"
 
           echo "Uploading pack files found under dist/..."
-          files=$(find dist -type f \( -name "*.zip" -o -name "*.mrpack" \) || true)
-          if [ -z "$files" ]; then
+          mapfile -d '' files < <(find dist -type f \( -name "*.zip" -o -name "*.mrpack" \) -print0 || true)
+          if [ ${#files[@]} -eq 0 ]; then
             echo "No pack files found in dist/ — nothing to upload."
             exit 0
           fi
 
-          for file in $files; do
+          for file in "${files[@]}"; do
+            file="${file%$'\n'}"
             name=$(basename "$file")
             case "$file" in
               *.zip) content_type="application/zip" ;;
