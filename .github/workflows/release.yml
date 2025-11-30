@@ -27,7 +27,7 @@ jobs:
           go install github.com/Alfakynz/PackWize/cmd/packwize@main
 
       - name: Build modpack
-        run: packwize ex a a
+        run: packwize ex a a --quiet
 
       - name: Create draft release
         id: create_release
@@ -36,13 +36,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref_name }}
-          release_name: Assembled Legendary Tooltips Compat ${{ github.ref_name }}
+          release_name: Net Play MC ${{ github.ref_name }}
           draft: true
           prerelease: false
           body: |
             -
-
-            **Full Changelog**: https://github.com/Alfakynz/Net-Play-MC/compare/v1.x.x...v1.x.x
 
       - name: Upload packs to the release
         env:
