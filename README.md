@@ -2,6 +2,9 @@
 
 A maintained modpack for multiplayer with optimization and QoL mods. Created for my Minecraft instances, where I spent hours configuring the same configs accross each Minecraft versions.
 
+This modpack includes many multiplayer-oriented mods, such as [e4mc](https://modrinth.com/project/qANg5Jrr) for hosting worlds, [Chat Heads](https://modrinth.com/project/Wb5oqrBJ) for better in-chat identification, and [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1) for group voice conversations. It also features [Auth Me](https://modrinth.com/project/yjgIrBjZ), allowing you to switch your Minecraft account directly in-game.
+It further provides a wide selection of quality-of-life and optimization mods, with several of them already pre-configured for convenience.
+
 ## 📦 Installation
 
 You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play-mc) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/net-play-mc).
