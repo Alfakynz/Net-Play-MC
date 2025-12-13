@@ -1,0 +1,13 @@
+name = "Chat Heads"
+filename = "chat_heads-1.1.8-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3543124fb1d6390a1d2d97a85f392ab9724ad813"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7324241
+project-id = 407206

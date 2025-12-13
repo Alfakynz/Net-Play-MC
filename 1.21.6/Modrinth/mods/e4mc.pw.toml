@@ -1,13 +1,13 @@
 name = "e4mc"
-filename = "e4mc_minecraft-fabric-5.4.1.jar"
+filename = "e4mc_minecraft-fabric-5.4.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/baNcxaPZ/e4mc_minecraft-fabric-5.4.1.jar"
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/UWBY9Hnh/e4mc_minecraft-fabric-5.4.2.jar"
 hash-format = "sha512"
-hash = "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d60d338c09a89f498f69cf7472da4dffa38e728961944f517b3ef7e7c"
+hash = "60502f424f2f62590aeba9693b577820b8887527534da9a57162f1da5465da8ba2b3eca551c9896aaa9acd9ec9e941144b0d52b1258d5f9829a4eac672e26fdf"
 
 [update]
 [update.modrinth]
 mod-id = "qANg5Jrr"
-version = "baNcxaPZ"
+version = "UWBY9Hnh"

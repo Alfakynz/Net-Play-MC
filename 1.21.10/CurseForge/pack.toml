@@ -1,15 +1,15 @@
 name = "Net Play MC"
 author = "Alfakynz"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3550873f786e1aa62c549879467e6c37acd2c94de113ac4f2e3b7164ac042261"
+hash = "4f214c72c7304936aca057a5cfbd09704e6fd8ea3b685cd55ee9b0f6a3f55fb2"
 
 [versions]
-fabric = "0.18.1"
+fabric = "0.18.2"
 minecraft = "1.21.10"
 
 [options]

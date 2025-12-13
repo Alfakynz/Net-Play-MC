@@ -1,23 +1,14 @@
 .DS_Store
 dist
 
-.packwizignore
-*.png
-!configurations/*.png
-configureddefaults/
-!configurations/configureddefaults/
-!configurations/.packwizignore
+*/Modrinth/.packwizignore
+*/Modrinth/options.txt
+*/Modrinth/*.png
+*/Modrinth/config/
+*/Modrinth/journeymap/
 
-# 1.21.1
-!1.21.1/configurations/configureddefaults/
-
-# 1.21.6
-1.21.6/CurseForge/configureddefaults/
-1.21.6/CurseForge/config/
-1.21.6/CurseForge/journeymap/
-1.21.6/CurseForge/options.txt
-1.21.6/Modrinth/configureddefaults/
-1.21.6/Modrinth/config/
-1.21.6/Modrinth/journeymap/
-1.21.6/Modrinth/options.txt
-!1.21.6/configurations/.packwizignore
+*/CurseForge/.packwizignore
+*/CurseForge/options.txt
+*/CurseForge/*.png
+*/CurseForge/config/
+*/CurseForge/journeymap/

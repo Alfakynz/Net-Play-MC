@@ -1,96 +1,92 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/config/betterf3.json"
+file = "config/betterf3.json"
 hash = "0028abb010568e5d31c2d12390a18a471a495591a24bf408abea3c151e8d234e"
 
 [[files]]
-file = "configureddefaults/config/euphoria_patcher.properties"
+file = "config/euphoria_patcher.properties"
 hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
 
 [[files]]
-file = "configureddefaults/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
-file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "cc6948c287851fdb08146d86250841e4d6ee9c802ebba1f8df13aa3445528be0"
 
 [[files]]
-file = "configureddefaults/config/jade/hide-blocks.json"
+file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
 [[files]]
-file = "configureddefaults/config/jade/hide-entities.json"
+file = "config/jade/hide-entities.json"
 hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
-file = "configureddefaults/config/jade/jade.json"
+file = "config/jade/jade.json"
 hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
 
 [[files]]
-file = "configureddefaults/config/jade/plugins.json"
+file = "config/jade/plugins.json"
 hash = "d01aec2b1f436d3cc03dc0be05817918cf60e8781fc24adc774f530ad24580ad"
 
 [[files]]
-file = "configureddefaults/config/jade/sort-order.json"
+file = "config/jade/sort-order.json"
 hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 
 [[files]]
-file = "configureddefaults/config/jade/usernamecache.json"
+file = "config/jade/usernamecache.json"
 hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
 
 [[files]]
-file = "configureddefaults/config/rrls.toml"
+file = "config/rrls.toml"
 hash = "675224bb453de73283e2e25fca52e47ce6ea1d2e9c6c2834eff51bf43d7c2a4f"
 
 [[files]]
-file = "configureddefaults/config/shouldersurfing-client.toml"
+file = "config/shouldersurfing-client.toml"
 hash = "880d1725e8bc4b9a4fb2753a5d698fa380d822afb007cd92d618e7254ea3ff33"
 
 [[files]]
-file = "configureddefaults/config/skinshuffle/config.json"
+file = "config/skinshuffle/config.json"
 hash = "662c8542ea661fc5321a22e99df6dafd0d6055ed0416a3fc767df130a9953a52"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.core.config"
-hash = "f186361722ed93165d61b42169ee0495310f7032b32a77f0f09c34f1c8dff6e3"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.fullmap.config"
-hash = "b767cc9b4c8f8aadd2f07e03af345b51a44077d5a5c9d6ff491d57f0bb5d2e32"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.minimap.config"
-hash = "8cda76eb64346eb0b4c4fd567aa32b8a2c752a6600170db33729568ef0f7ad70"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.minimap2.config"
-hash = "26fd46b816044dbbc8fbd5fca1514b77598db69d3c239195edf0d7a40f969685"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.rendering.config"
-hash = "adb365c27dcbf3a24b697cdb63f96bc6b09a179a2bea94397d146bdb890ac967"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.topo.config"
-hash = "429c48cf38f5acb051b98ac7577e95fcf48b297d01cd83fd36e07c24c8416cad"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.waypoint.config"
-hash = "a6e25c86ca2b8aa32a85829d7c39a31ccae7d749b240a55ea2000cb8cbcc490c"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
-hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
 file = "icon.png"
 hash = "c36c0efbe5be0b9cf0fdfe54dbe17bea53295ac2a372d1203aa0f5c9c68d2bc7"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "f186361722ed93165d61b42169ee0495310f7032b32a77f0f09c34f1c8dff6e3"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "b767cc9b4c8f8aadd2f07e03af345b51a44077d5a5c9d6ff491d57f0bb5d2e32"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "8cda76eb64346eb0b4c4fd567aa32b8a2c752a6600170db33729568ef0f7ad70"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "26fd46b816044dbbc8fbd5fca1514b77598db69d3c239195edf0d7a40f969685"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "adb365c27dcbf3a24b697cdb63f96bc6b09a179a2bea94397d146bdb890ac967"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "429c48cf38f5acb051b98ac7577e95fcf48b297d01cd83fd36e07c24c8416cad"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "a6e25c86ca2b8aa32a85829d7c39a31ccae7d749b240a55ea2000cb8cbcc490c"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -148,13 +144,13 @@ hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
 
 [[files]]
-file = "mods/configured-defaults.pw.toml"
-hash = "1db93acc646471246314391b4c8250c833635017eec151b97cb44eb26f6206c1"
+file = "mods/continuity.pw.toml"
+hash = "b50378ddd8de5877ce51ded7616ebbf3ad0a5e18af8125a473411fbabc6c37cd"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "b50378ddd8de5877ce51ded7616ebbf3ad0a5e18af8125a473411fbabc6c37cd"
+file = "mods/creativecore.pw.toml"
+hash = "7112f698dda447ec4f1c6474683308487d51e93ec8dbe26c7f81d0fdd4c9fdb0"
 metafile = true
 
 [[files]]
@@ -184,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b0c1f384723a0832a498e0719dd557dc578c3ef8170a4f8a4d41fe2e2a5ca367"
+hash = "3303ffc99bfefa5591660f2654766dac92666590c27a192cc88a5808cd120763"
 metafile = true
 
 [[files]]
@@ -199,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5b0efedacf27b8b22797a0ccfe0c1caafe82c79723557e07e8c55dea780afc68"
+hash = "949b56f74870f3722aa82cbc0af1f34b715d62007587c3ff65c47bafb15a58bc"
 metafile = true
 
 [[files]]
@@ -219,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "01fc46939154934b4c837e3ac3f15557df7128b709ddabf065418e5e61cdd995"
+hash = "be4e721e1d51831ecbc54600248be8b15ab73599d8d23cc48c95f3abdb092e0b"
 metafile = true
 
 [[files]]
@@ -229,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "d974aacde7c3c7cfe264d721baea16cad8150c6e0ac44b0f578ec4fce184f32e"
+hash = "ef9f88669bc72b1e89798877f7dd8a3466738da8e96acf3a81de0f779b0be03f"
 metafile = true
 
 [[files]]
@@ -239,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7cd0e909ee98d8387a1173356ca000fe958d15a3ebb58984def87dec663184f7"
+hash = "736c8917697c7640f3aceddc8e9ce2eac770048c3e3163aa16a7872d5bb04c45"
 metafile = true
 
 [[files]]
@@ -249,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "f65b11ba8730a2300b29e882a9bcd55df8f92250b3eccf22a04d679a32d8e275"
+hash = "40fa748597b1da468d9d0ef756ab55bb591e214695b93ef66feafd7cd6520a33"
 metafile = true
 
 [[files]]
@@ -264,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "3c81bed7d427dc00917641a8414f17b10053c624381c554b26270b34f0afeb6b"
+hash = "252b6581ba3fa2cce52a4bdf114020a2e7e069a42b35b6187ac3e21141b3a00a"
 metafile = true
 
 [[files]]
@@ -309,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f23cada5e6ce23af2fa6b4b29fedbceec109c46604583b2e564a366e0717eb75"
+hash = "ae0783f3455e72023fac34f0ebe965ad1b3dbd813f155e2f7fb97e2da029e103"
 metafile = true
 
 [[files]]
@@ -334,17 +330,17 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "3753d236e0d0465ed74eb9fc6314d03074423356e7248f72ce151ad615b605ff"
+hash = "803ebab3c151fd5d81ea836f67f8f63116209ee07df52acc19fc6658ddb41dfa"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1a887f5c1e880d63578356e7fc1eb3698545238ad8ff422268dbb23eab7f9ded"
+hash = "e4b0fcff8630f9c3919d1ffa6e519c4fb9e8d814d6c321ad2374877863e84b51"
 metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "66ee8eab675393dc1b9dc9c5ede851a8587ff94577e2e226c5989c432fa9eacf"
+hash = "bd4cfd8701633c013cacde0c311a24261020abdce657e3760166d6af8660f745"
 metafile = true
 
 [[files]]
@@ -379,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "cafd85dca562ede528656b508bf0d317056a82d4b8aa953e68e5729f28f65dff"
+hash = "503a13fb7a8188f8434a82df32c16644cba3d0f25e31da88626acc52af03da41"
 metafile = true
 
 [[files]]
@@ -399,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ed0e142a87ebbae7caa0c8311002a2d4e33766bcccf7ee6637ec5308a42eeb5c"
+hash = "f8b22a3818eb55e9b7eafa4cc6b1b44482b88524d4134d544dfb795d9aea058d"
 metafile = true
 
 [[files]]
@@ -408,8 +404,12 @@ hash = "1836c4b896229b4283d28009951c913b518df7aefd0ccb05f12cd954c3a7deb8"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "b813627b573dfc83641d9cac2cb950c4f9219e8129b86e74c953869a1c8bce59"
+
+[[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "f96b12a4b7a2e60865d524bb1ec052294d6d9aa59258c31d48816241bebe387a"
+hash = "dc065d9bb3aaad0eefdf5158211929943835493c709e2fb7ed29a6d246ea9c06"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "bb7d05bb7097173a4193e7a82b554d5748a849db9fd65c8515d7564f2988e656"
+hash = "5310da73a0fb83b049f5e5a3fdd82c73873da024d0ce663a2365c209c002fd0a"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ad42edaeac5410d8f4ef629805cc734ff3f80c45ddd27bcf1d64a38f34b80a4b"
+hash = "7fb83199c50d224fcf15e229e9168bd5412ca353927452e2a52bc08eb5443a24"
 metafile = true
 
 [[files]]

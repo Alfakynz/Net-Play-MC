@@ -1,0 +1,13 @@
+name = "Skin Shuffle"
+filename = "skinshuffle-2.10.1+1.21.11-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7dd38879f3f932ccd145dcc84fef90f95d04be8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7318632
+project-id = 876386

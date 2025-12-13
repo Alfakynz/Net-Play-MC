@@ -49,92 +49,8 @@ file = "config/shouldersurfing-client.toml"
 hash = "880d1725e8bc4b9a4fb2753a5d698fa380d822afb007cd92d618e7254ea3ff33"
 
 [[files]]
-file = "configureddefaults/config/betterf3.json"
-hash = "0028abb010568e5d31c2d12390a18a471a495591a24bf408abea3c151e8d234e"
-
-[[files]]
-file = "configureddefaults/config/euphoria_patcher.properties"
-hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
-
-[[files]]
-file = "configureddefaults/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "cc6948c287851fdb08146d86250841e4d6ee9c802ebba1f8df13aa3445528be0"
-
-[[files]]
-file = "configureddefaults/config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "configureddefaults/config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
-
-[[files]]
-file = "configureddefaults/config/jade/jade.json"
-hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
-
-[[files]]
-file = "configureddefaults/config/jade/plugins.json"
-hash = "d01aec2b1f436d3cc03dc0be05817918cf60e8781fc24adc774f530ad24580ad"
-
-[[files]]
-file = "configureddefaults/config/jade/sort-order.json"
-hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
-
-[[files]]
-file = "configureddefaults/config/jade/usernamecache.json"
-hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
-
-[[files]]
-file = "configureddefaults/config/rrls.toml"
-hash = "e640a0284af42c946e5495440466beae329f32f9b7aa068a9d1d51559b9624f8"
-
-[[files]]
-file = "configureddefaults/config/shouldersurfing-client.toml"
-hash = "880d1725e8bc4b9a4fb2753a5d698fa380d822afb007cd92d618e7254ea3ff33"
-
-[[files]]
-file = "configureddefaults/config/skinshuffle/config.json"
+file = "config/skinshuffle/config.json"
 hash = "662c8542ea661fc5321a22e99df6dafd0d6055ed0416a3fc767df130a9953a52"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.core.config"
-hash = "f186361722ed93165d61b42169ee0495310f7032b32a77f0f09c34f1c8dff6e3"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.fullmap.config"
-hash = "b767cc9b4c8f8aadd2f07e03af345b51a44077d5a5c9d6ff491d57f0bb5d2e32"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.minimap.config"
-hash = "8cda76eb64346eb0b4c4fd567aa32b8a2c752a6600170db33729568ef0f7ad70"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.minimap2.config"
-hash = "26fd46b816044dbbc8fbd5fca1514b77598db69d3c239195edf0d7a40f969685"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.rendering.config"
-hash = "adb365c27dcbf3a24b697cdb63f96bc6b09a179a2bea94397d146bdb890ac967"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.topo.config"
-hash = "429c48cf38f5acb051b98ac7577e95fcf48b297d01cd83fd36e07c24c8416cad"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.waypoint.config"
-hash = "a6e25c86ca2b8aa32a85829d7c39a31ccae7d749b240a55ea2000cb8cbcc490c"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
-hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "4c934db603d72784702803e42d0af29f00e688b4eb85fc706b5006822cc1d886"
 
 [[files]]
 file = "icon.png"
@@ -233,6 +149,11 @@ hash = "3357a0f5f06655080447c8a06bc20b531783193696868360f41e7b19adbdf03c"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "dd3fee4cb3fb078b09fc89d958b00aa65c42ad10fca267c97c66d2bc81dd9814"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a826fbce1a20169613e387719b40a05e95a0ca8ede805b82fa686533a0550713"
 metafile = true
@@ -254,12 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5cf3e744547bec544b314170ef2a7845848f595399ce22845d1b7363914fd35d"
+hash = "bb5836618ed347acb7e3c53e129eaaf60892da9a0fc3406b5e314bdebf53e528"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b0c1f384723a0832a498e0719dd557dc578c3ef8170a4f8a4d41fe2e2a5ca367"
+hash = "3303ffc99bfefa5591660f2654766dac92666590c27a192cc88a5808cd120763"
 metafile = true
 
 [[files]]
@@ -294,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "21f6ddbd4b315c5442036b42021ef9e6c43271f9aabfb9420ae3843d3ee139ca"
+hash = "372c23d9de8c88dfe61efccc6639f077ad9b8188647f80bedea99fd02e721dc1"
 metafile = true
 
 [[files]]
@@ -324,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "e5a41adb84a1daf65eb119a8c5aa65432c0be514c1f13635eda4d107732b1908"
+hash = "942d4ab5b57d6a660454133135d863a9272e1de7b825aa3242508722dffa7366"
 metafile = true
 
 [[files]]
@@ -474,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5c6c3494c90333b5c8f36afff7c4355457c54581e9b751c607375b79ea52f298"
+hash = "3ccb5713e745db48dfcb6174853161d8fed60ecbdf770dc78ae5663f5b04f352"
 metafile = true
 
 [[files]]
@@ -484,11 +405,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "291caa8fe04474e946910fb4818ec27dfe2d7a36825855c16c2313c90192b37b"
+hash = "b813627b573dfc83641d9cac2cb950c4f9219e8129b86e74c953869a1c8bce59"
 
 [[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "f96b12a4b7a2e60865d524bb1ec052294d6d9aa59258c31d48816241bebe387a"
+hash = "dc065d9bb3aaad0eefdf5158211929943835493c709e2fb7ed29a6d246ea9c06"
 metafile = true
 
 [[files]]
@@ -498,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "bb7d05bb7097173a4193e7a82b554d5748a849db9fd65c8515d7564f2988e656"
+hash = "5310da73a0fb83b049f5e5a3fdd82c73873da024d0ce663a2365c209c002fd0a"
 metafile = true
 
 [[files]]
@@ -513,12 +434,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/minecraft-3d-default.pw.toml"
-hash = "4ae461fad9e6783151b8744f285e0bb553a94ebbdca6f32399ea56abbdd52703"
+hash = "b7e15b60c2dc789a55abec62321393ddcb349c4e6f14646b24a0f07fc7bb6df5"
 metafile = true
 
 [[files]]
 file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
-hash = "53cb7691a62166c5f65251f9eb24caafd7608c8fa60f111501a927f0097434bd"
+hash = "91d9ebebc72f713caf3c181839d2966190e3018fdcf87fd02ffa94e1244cf6df"
 metafile = true
 
 [[files]]
@@ -528,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ad42edaeac5410d8f4ef629805cc734ff3f80c45ddd27bcf1d64a38f34b80a4b"
+hash = "7fb83199c50d224fcf15e229e9168bd5412ca353927452e2a52bc08eb5443a24"
 metafile = true
 
 [[files]]
