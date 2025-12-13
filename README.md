@@ -17,10 +17,10 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [AmbientSounds](https://modrinth.com/project/fM515JnW)                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [AppleSkin](https://modrinth.com/project/EsAfCjCV)                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Architectury API](https://modrinth.com/project/lhGA9TYQ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
-| [Auth Me](https://modrinth.com/project/yjgIrBjZ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Auth Me](https://modrinth.com/project/yjgIrBjZ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅      | ❌      |
-| [Better Selection](https://modrinth.com/project/xIpcAYJL)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Better Selection](https://modrinth.com/project/xIpcAYJL)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [BetterF3](https://modrinth.com/project/8shC1gFX)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Bridging Mod](https://modrinth.com/project/lO3s8hjs)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -65,7 +65,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Remove Reloading Screen](https://modrinth.com/project/ZP7xHXtw)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Seamless](https://modrinth.com/project/rhyHyQke)                                | ✅     | ✅     | ❌     | ❌     | ❌     | ❌     | ❌      | ❌      |
-| [Shoulder Surfing Reloaded](https://modrinth.com/project/kepjj2sy)               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Shoulder Surfing Reloaded](https://modrinth.com/project/kepjj2sy)               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Skin Shuffle](https://modrinth.com/project/3s19I5jr).                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Smooth Scrolling](https://modrinth.com/project/CllP7wW0)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
@@ -76,7 +76,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [Sounds](https://modrinth.com/project/ZouiUX7t)                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [TCDCommons API](https://modrinth.com/project/Eldc1g37)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Text Placeholder API](https://modrinth.com/project/eXts2L7r)                    | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [Visuality](https://modrinth.com/project/rI0hvYcd)                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Visuality](https://modrinth.com/project/rI0hvYcd)                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR)              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Zoomify](https://modrinth.com/project/w7ThoJFB)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [[EMF] Entity Model Features](https://modrinth.com/project/4I1XuqiY)             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |

@@ -17,6 +17,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "cc6948c287851fdb08146d86250841e4d6ee9c802ebba1f8df13aa3445528be0"
 
 [[files]]
+file = "config/iris.properties"
+hash = "4eb525ec220ff749911e5d1f8f6eab09ec9d78875dd4baf6d63e6a50ba069ac0"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
@@ -26,7 +30,7 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
+hash = "93e098f8882bbfe9eaba05694016fff55a911114d1cea2a046915e6f4253d64b"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -194,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "3303ffc99bfefa5591660f2654766dac92666590c27a192cc88a5808cd120763"
+hash = "5de0fb2492fc06ac160a00595ee38a95ae2321296e9b0b479387dd8a61dfd772"
 metafile = true
 
 [[files]]
@@ -439,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bc307212710702f562d4887c8f921e3c3917045041c6cc9383b540355ebc55c3"
+hash = "58731904b8ccbf9de1f46f7a5a5d7e4c358e1c1429da452f044e1858cf44e0f1"
 
 [[files]]
 file = "resourcepacks/better-ipn-buttons.pw.toml"
