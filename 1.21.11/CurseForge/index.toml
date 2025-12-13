@@ -30,7 +30,7 @@ hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d01aec2b1f436d3cc03dc0be05817918cf60e8781fc24adc774f530ad24580ad"
+hash = "8daf20878a02aab8611856f409ea0b33f721ef1d5be4bad4053d446e9634ba28"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -39,6 +39,10 @@ hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 [[files]]
 file = "config/jade/usernamecache.json"
 hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "e20428580f54cb128b11bb54b38b4c9957473f5494628bcf42c7c358276f9759"
 
 [[files]]
 file = "config/rrls.toml"
@@ -119,6 +123,11 @@ hash = "a6f7f64b71f3a46ecf025145e249d2b676408c8938cdb7dc376d0896cefe9682"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "35655c9869f280f3bb2d81ecf06041b7b2cd6a038655fbfb5a9bb776f015795f"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "49975a49af51ec632ca329870f383f94034e44913cd7a9b64b701efe97e5d068"
 metafile = true
@@ -184,8 +193,18 @@ hash = "2857a8dc942967be661710354790ccbd996f2c32d4b2c9ea7a5554ace3d98b97"
 metafile = true
 
 [[files]]
+file = "mods/invmovecompats.pw.toml"
+hash = "e08e7d05219d12b4de7083b2f7ec5424cf75d653e940633fff44d8def47db7e5"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "c61a2827703e32aeeb1cad3fae2f9c0e1565b026dcce04efba6e3c0bbcb9d073"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "f67e71b586da7240f422c1d57414a01b39f9edff7aa2484ce059ac68062af6be"
 metafile = true
 
 [[files]]
@@ -290,11 +309,21 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b813627b573dfc83641d9cac2cb950c4f9219e8129b86e74c953869a1c8bce59"
+hash = "bc307212710702f562d4887c8f921e3c3917045041c6cc9383b540355ebc55c3"
+
+[[files]]
+file = "resourcepacks/better-ipn-buttons.pw.toml"
+hash = "344cfb1bf3259c3534dc0b0737aef164f0f3c97ddf75f15fd564fbd93c427c0d"
+metafile = true
 
 [[files]]
 file = "resourcepacks/connected-paths.pw.toml"
 hash = "3d81c2d42dadb03acc48f5e50763cbc52daf1557ad3104ba397c90e3a55814b4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eating-animation-resource-pack.pw.toml"
+hash = "5da2d254ce79909463b3a1e655fd1ecab89449ec6c6f7f5e014b164263a9cd35"
 metafile = true
 
 [[files]]

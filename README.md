@@ -16,7 +16,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [AmbientSounds](https://modrinth.com/project/fM515JnW)                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [AppleSkin](https://modrinth.com/project/EsAfCjCV)                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [Architectury API](https://modrinth.com/project/lhGA9TYQ)                        | ❌     | ❌     | ❌     | ❌     | ✅     | ✅     | ✅      | ❌      |
+| [Architectury API](https://modrinth.com/project/lhGA9TYQ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Auth Me](https://modrinth.com/project/yjgIrBjZ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅      | ❌      |
@@ -31,8 +31,10 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [Cubes Without Borders](https://modrinth.com/project/ETlrkaYF)                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Cut Through](https://modrinth.com/project/Dk6su9JN)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Dark Loading Screen](https://modrinth.com/project/h3XWIuzM)                     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Detail Armor Bar Reconstructed](https://modrinth.com/project/Si9Uim4y)          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Dynamic Crosshair](https://modrinth.com/project/ZcR9weSm)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Dynamic FPS](https://modrinth.com/project/LQ3K71Q1)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Eating Animation](https://modrinth.com/project/rUgZvGzi)                        | ✅     | ❌     | ❌     | ❌     | ❌     | ❌     | ❌      | ❌      |
 | [Entity Culling](https://modrinth.com/project/NNAgCjsB)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Euphoria Patches](https://modrinth.com/project/4H6sumDB)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fabric API](https://modrinth.com/project/P7dR8mSH)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -41,10 +43,13 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [FerriteCore](https://modrinth.com/project/uXXizFIs)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [First-person Model](https://modrinth.com/project/H5XMjpHi)                      | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Forge Config API Port](https://modrinth.com/project/ohNO6lps)                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Free Inventory](https://modrinth.com/project/PSmNv4li)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [InvMove](https://modrinth.com/project/REfW2AEX)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [InvMove Compat](https://modrinth.com/project/6IpcGP7T)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Inventory Profiles Next](https://modrinth.com/project/O7RBXm3n)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ⚠️      |
 | [Iris Shaders](https://modrinth.com/project/YL57xq9U)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [ItemPhysic](https://modrinth.com/project/aT8BzaOj)                              | ✅     | ✅     | ❌     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Jade 🔍](https://modrinth.com/project/nvQzSEkH)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [JourneyMap](https://modrinth.com/project/lfHFW1mp)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Lithium](https://modrinth.com/project/gvQqBUqZ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -59,6 +64,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [Puzzles Lib](https://modrinth.com/project/QAGBst4M)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Remove Reloading Screen](https://modrinth.com/project/ZP7xHXtw)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Seamless](https://modrinth.com/project/rhyHyQke)                                | ✅     | ✅     | ❌     | ❌     | ❌     | ❌     | ❌      | ❌      |
 | [Shoulder Surfing Reloaded](https://modrinth.com/project/kepjj2sy)               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Skin Shuffle](https://modrinth.com/project/3s19I5jr).                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -79,7 +85,9 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [libIPN](https://modrinth.com/project/onSQdWhM)                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ⚠️      |
 | [(Bee's) Fancy Crops](https://modrinth.com/project/UGEVQ6t9)                     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [3D Default](https://modrinth.com/project/5aPp18Lx)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Better IPN Buttons](https://modrinth.com/project/mqZujIpC)                      | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Connected Paths](https://modrinth.com/project/Nyfj98b5)                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Eating Animation Resource Pack](https://modrinth.com/project/xOCLHTN8)          | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fast Better Grass](https://modrinth.com/project/dspVZXKP)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fresh Animations](https://modrinth.com/project/50dA9Sha)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Low On Fire](https://modrinth.com/project/RRxvWKNC)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |

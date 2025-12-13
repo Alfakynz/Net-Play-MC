@@ -30,7 +30,7 @@ hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d01aec2b1f436d3cc03dc0be05817918cf60e8781fc24adc774f530ad24580ad"
+hash = "8daf20878a02aab8611856f409ea0b33f721ef1d5be4bad4053d446e9634ba28"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -39,6 +39,10 @@ hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 [[files]]
 file = "config/jade/usernamecache.json"
 hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "e20428580f54cb128b11bb54b38b4c9957473f5494628bcf42c7c358276f9759"
 
 [[files]]
 file = "config/rrls.toml"
@@ -101,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "47d1dc015b07695d8d3107cb12aa75e154ed0a9c0216a69fed7d221857f6ad7d"
 metafile = true
 
 [[files]]
@@ -174,6 +183,11 @@ hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "0d07adf7d0d94bb683d412849b363f0e770d77ce0808414e2080e4ae773dde7d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "cc759902abfa82b61a9b7858433b590748308f9e55045907225b9c4d2b5a5862"
 metafile = true
@@ -239,6 +253,11 @@ hash = "cee7b9a65f1d8625f9c103486e8b91edf6bb03b36ab2430fd927ec0d687ce8db"
 metafile = true
 
 [[files]]
+file = "mods/free-inventory.pw.toml"
+hash = "66e5640c84fe40781fcf56aed57cd1cd4d8b0acd149cb0c2ad7ca9f6f16354cc"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "49bfa364f9e46b6a53f6dde155fdd3e498178de20220f17fb5f67faea45376b0"
 metafile = true
@@ -251,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/invmove.pw.toml"
 hash = "4e8f3b873dd1fb1ffb3b14ddcff131f0cc2129ffdba8aefc4dd88b343337b36f"
+metafile = true
+
+[[files]]
+file = "mods/invmovecompats.pw.toml"
+hash = "6a1fd74a1307161a86e40af4a68ebb5c2b3a04036d688c6a1021f70671f492ef"
 metafile = true
 
 [[files]]
@@ -334,6 +358,11 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "0ebcac819db1ea71488bc30ee57ab0c7f65b6e9395890f52120d8700cacc6286"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "05f1af7279a9c9c21e4d3a5ffd2ba0816b8cad9011132da810bbfc79cc468a88"
 metafile = true
@@ -405,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b813627b573dfc83641d9cac2cb950c4f9219e8129b86e74c953869a1c8bce59"
+hash = "bc307212710702f562d4887c8f921e3c3917045041c6cc9383b540355ebc55c3"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -413,8 +442,18 @@ hash = "7586b798faa2894f293b307a9a0d5ffbd4d6a67192fb4e68b5b3c9e813070fb8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-ipn-buttons.pw.toml"
+hash = "badf75e4b5e40594e91989916fdcafe0f62fa1fd374fe8c8a76969e876d98dc8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/connected-paths.pw.toml"
 hash = "dc065d9bb3aaad0eefdf5158211929943835493c709e2fb7ed29a6d246ea9c06"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eating-animation-resource-pack.pw.toml"
+hash = "5da2d254ce79909463b3a1e655fd1ecab89449ec6c6f7f5e014b164263a9cd35"
 metafile = true
 
 [[files]]

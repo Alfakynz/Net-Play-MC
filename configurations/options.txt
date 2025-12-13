@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Recolourful Containers DARK 2.1.2 (1.19.4+).zip","black_icons","file/LowOnFire 1.21.3.zip","file/LowOnFire 1.21.5.zip","file/LowOnFire v1.21.6§8.zip","file/LowOnFire v1.21.7§8.zip","file/LowOnFire v1.21.8§8.zip","file/LowOnFire v1.21.9§8.zip","file/Fast Better Grass.zip","file/Connected Paths v.1.4.1 - 1.21.8-.zip","file/Connected Paths v1.4.1 - 1.21.9+.zip","file/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip","file/Fancy Crops v1.3.zip","file/3D Default 1.20+ v1.13.0.zip","file/3D Default 1.21.2+ v1.13.1.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.10.2.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Recolourful Containers DARK 2.1.2 (1.19.4+).zip","file/Better-IPN-Buttons.zip","black_icons","file/LowOnFire 1.21.3.zip","file/LowOnFire 1.21.5.zip","file/LowOnFire v1.21.6§8.zip","file/LowOnFire v1.21.7§8.zip","file/LowOnFire v1.21.8§8.zip","file/LowOnFire v1.21.9§8.zip","minecraft:supporteatinganimation","file/Eating Animation.zip","file/Fast Better Grass.zip","file/Connected Paths v.1.4.1 - 1.21.8-.zip","file/Connected Paths v1.4.1 - 1.21.9+.zip","file/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip","file/Fancy Crops v1.3.zip","file/3D Default 1.20+ v1.13.0.zip","file/3D Default 1.21.2+ v1.13.1.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.10.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -180,7 +180,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.25
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

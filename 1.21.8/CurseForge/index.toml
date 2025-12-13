@@ -30,7 +30,7 @@ hash = "8a57b8690ae69bac1e3c575a1a841a0c017f5ab3baadb6ba78f71a4bf0541ce0"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "d01aec2b1f436d3cc03dc0be05817918cf60e8781fc24adc774f530ad24580ad"
+hash = "8daf20878a02aab8611856f409ea0b33f721ef1d5be4bad4053d446e9634ba28"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -39,6 +39,10 @@ hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
 [[files]]
 file = "config/jade/usernamecache.json"
 hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "e20428580f54cb128b11bb54b38b4c9957473f5494628bcf42c7c358276f9759"
 
 [[files]]
 file = "config/rrls.toml"
@@ -174,6 +178,11 @@ hash = "aba6398c78f281146fa114aafec5817ece9378d91e4bdd85213c95d50a7d4492"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "f4c6a51debdf1dae53f49bc87cbf878eb16150cf1c2d9e260f29077665833ba4"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-crosshair.pw.toml"
 hash = "955d25b828ee35eb84e06f4d146789cbed3529096283a67cbb41eaef4aaa11c3"
 metafile = true
@@ -239,6 +248,11 @@ hash = "c529c91cceeca6400ca12540b79cec8d2cf5d7071398e413a7c51f11eb847903"
 metafile = true
 
 [[files]]
+file = "mods/free-inventory.pw.toml"
+hash = "d6588fade687ae5254313807598cd7732f1917e71dc202e387d11a077ab09d6c"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3617809c044fc866d3b064e0264aa4a302ff9bcaeff3ea04a9c1d53565cfc26c"
 metafile = true
@@ -254,8 +268,18 @@ hash = "942d4ab5b57d6a660454133135d863a9272e1de7b825aa3242508722dffa7366"
 metafile = true
 
 [[files]]
+file = "mods/invmovecompats.pw.toml"
+hash = "c5732bb80de9248a43375a6a9d22d71066b4e5ec06d2829c1dbb80d4a84eec47"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "d93b46b247fe2a2a3a70638c66fa73618d46cad43aeb7df0d90f5311ba2de280"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "33eb691bf5f856575a25536996ded08362191c907e3f01fd87ac112a8e5d98d7"
 metafile = true
 
 [[files]]
@@ -326,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "56390b7b5a7815868460b7f489b8bafba913652bb10a9f8383cefba1a483a15f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "067338009da5e8f1552cc0dea032a02b6d96e9a94b8a6cea7b63fe5bbc52b97c"
 metafile = true
 
 [[files]]
@@ -410,11 +439,21 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b813627b573dfc83641d9cac2cb950c4f9219e8129b86e74c953869a1c8bce59"
+hash = "bc307212710702f562d4887c8f921e3c3917045041c6cc9383b540355ebc55c3"
+
+[[files]]
+file = "resourcepacks/better-ipn-buttons.pw.toml"
+hash = "344cfb1bf3259c3534dc0b0737aef164f0f3c97ddf75f15fd564fbd93c427c0d"
+metafile = true
 
 [[files]]
 file = "resourcepacks/connected-paths.pw.toml"
 hash = "dc065d9bb3aaad0eefdf5158211929943835493c709e2fb7ed29a6d246ea9c06"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eating-animation-resource-pack.pw.toml"
+hash = "5da2d254ce79909463b3a1e655fd1ecab89449ec6c6f7f5e014b164263a9cd35"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Detail Armor Bar Reconstructed"
+filename = "DetailArmorBarReconstructed-4.3.5+1.21.6_8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddd54a0127c54384eb5bf8fc28559820c62002ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7064486
+project-id = 1290628
