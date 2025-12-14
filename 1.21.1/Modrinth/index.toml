@@ -9,24 +9,12 @@ file = "config/euphoria_patcher.properties"
 hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "cc6948c287851fdb08146d86250841e4d6ee9c802ebba1f8df13aa3445528be0"
+hash = "3b2f0b16fe70aa6a7720622bf7dcb99e59e412c37169763b3af0c8b310b74d5e"
 
 [[files]]
 file = "config/iris.properties"
 hash = "4eb525ec220ff749911e5d1f8f6eab09ec9d78875dd4baf6d63e6a50ba069ac0"
-
-[[files]]
-file = "config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -35,14 +23,6 @@ hash = "93e098f8882bbfe9eaba05694016fff55a911114d1cea2a046915e6f4253d64b"
 [[files]]
 file = "config/jade/plugins.json"
 hash = "8daf20878a02aab8611856f409ea0b33f721ef1d5be4bad4053d446e9634ba28"
-
-[[files]]
-file = "config/jade/sort-order.json"
-hash = "d3f3be9b97417e8f177e1500b1d1f606562749b2eca47387eff162dc1b924e24"
-
-[[files]]
-file = "config/jade/usernamecache.json"
-hash = "b22ed10ad081a907fe3e34e91cd8664ae80391ec8053fb9bede77fd2c44d7dd9"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -59,6 +39,10 @@ hash = "880d1725e8bc4b9a4fb2753a5d698fa380d822afb007cd92d618e7254ea3ff33"
 [[files]]
 file = "config/skinshuffle/config.json"
 hash = "662c8542ea661fc5321a22e99df6dafd0d6055ed0416a3fc767df130a9953a52"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "565252c49707cbd0503824432c6cde64739eaa56130c1d3b8096c6754ca25853"
 
 [[files]]
 file = "icon.png"
@@ -453,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "58731904b8ccbf9de1f46f7a5a5d7e4c358e1c1429da452f044e1858cf44e0f1"
+hash = "4b33874c269d57ff8b3331cf962621b95927aec107986ed11d04c22b7d0e22a4"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
