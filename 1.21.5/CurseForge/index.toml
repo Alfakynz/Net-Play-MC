@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "6239435a6e7bd363eecb8a0a6c16476056e09b0a4d175391ca1dd4521e28a21f"
+hash = "050f36f56be7e53b25d3bba9f543f963d2c895202ad0d1061b733656d24a1236"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "5de0fb2492fc06ac160a00595ee38a95ae2321296e9b0b479387dd8a61dfd772"
+hash = "79f5d705581b57e5b5b9f0cf7c02e6e9b5ac27d743b708f7f7f8b95233f5501b"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "a3e8ab5b65ff403b1e578f50465a67743ff2d6943bd47458be482e44f5642754"
+hash = "2edafdc423051b21edbe49f433e73e6ba3164dfb079673355003e0f889e7ddf3"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "56d3d4b544de113a89176b6dd54105fe68b1d4f93794db0fdc35be5f96e08222"
+hash = "fb35131848b420123bbed37056e14cfaf3885fc9f3ef29467aa5784bd6a206e4"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4b33874c269d57ff8b3331cf962621b95927aec107986ed11d04c22b7d0e22a4"
+hash = "ff76a84f9e6800845bdf192ee085e1c903d197d0fb2832dca2f5c025d13974a1"
 
 [[files]]
 file = "resourcepacks/better-ipn-buttons.pw.toml"
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "15f5872ee75d21be2e6cbd25669e423a2a764312562e5cdfdc4e34af160dc6d3"
+hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
 metafile = true
 
 [[files]]

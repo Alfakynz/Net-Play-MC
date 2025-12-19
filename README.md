@@ -16,12 +16,12 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [AmbientSounds](https://modrinth.com/project/fM515JnW)                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [AppleSkin](https://modrinth.com/project/EsAfCjCV)                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [Architectury API](https://modrinth.com/project/lhGA9TYQ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Architectury API](https://modrinth.com/project/lhGA9TYQ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Auth Me](https://modrinth.com/project/yjgIrBjZ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅      | ❌      |
 | [Better Selection](https://modrinth.com/project/xIpcAYJL)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [BetterF3](https://modrinth.com/project/8shC1gFX)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Bridging Mod](https://modrinth.com/project/lO3s8hjs)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -30,7 +30,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [CreativeCore](https://modrinth.com/project/OsZiaDHq)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Cubes Without Borders](https://modrinth.com/project/ETlrkaYF)                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
 | [Cut Through](https://modrinth.com/project/Dk6su9JN)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
-| [Dark Loading Screen](https://modrinth.com/project/h3XWIuzM)                     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Dark Loading Screen](https://modrinth.com/project/h3XWIuzM)                     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Detail Armor Bar Reconstructed](https://modrinth.com/project/Si9Uim4y)          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Dynamic Crosshair](https://modrinth.com/project/ZcR9weSm)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Dynamic FPS](https://modrinth.com/project/LQ3K71Q1)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -47,22 +47,22 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [InvMove](https://modrinth.com/project/REfW2AEX)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [InvMove Compat](https://modrinth.com/project/6IpcGP7T)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [Inventory Profiles Next](https://modrinth.com/project/O7RBXm3n)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ⚠️      |
+| [Inventory Profiles Next](https://modrinth.com/project/O7RBXm3n)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Iris Shaders](https://modrinth.com/project/YL57xq9U)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [ItemPhysic](https://modrinth.com/project/aT8BzaOj)                              | ✅     | ✅     | ❌     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Jade 🔍](https://modrinth.com/project/nvQzSEkH)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [JourneyMap](https://modrinth.com/project/lfHFW1mp)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Lithium](https://modrinth.com/project/gvQqBUqZ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [M.R.U](https://modrinth.com/project/SNVQ2c0g)                                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [MacOS Input Fixes](https://modrinth.com/project/x9BrsVME)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
-| [Mod Menu](https://modrinth.com/project/mOgUt4GM)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ⚠️      |
+| [MacOS Input Fixes](https://modrinth.com/project/x9BrsVME)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Mod Menu](https://modrinth.com/project/mOgUt4GM)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [More Culling](https://modrinth.com/project/51shyZVL)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [No More Pop-ups](https://modrinth.com/project/sAdB6HVW)                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Not Enough Animations](https://modrinth.com/project/MPCX6s5C)                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [OptiGUI](https://modrinth.com/project/JuksLGBQ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
-| [Puzzles Lib](https://modrinth.com/project/QAGBst4M)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
-| [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Puzzles Lib](https://modrinth.com/project/QAGBst4M)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Remove Reloading Screen](https://modrinth.com/project/ZP7xHXtw)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Seamless](https://modrinth.com/project/rhyHyQke)                                | ✅     | ✅     | ❌     | ❌     | ❌     | ❌     | ❌      | ❌      |
 | [Shoulder Surfing Reloaded](https://modrinth.com/project/kepjj2sy)               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -74,29 +74,27 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/net-play
 | [Sodium](https://modrinth.com/project/AANobbMI)                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Sound Physics Remastered](https://modrinth.com/project/qyVF9oeo)                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Sounds](https://modrinth.com/project/ZouiUX7t)                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [TCDCommons API](https://modrinth.com/project/Eldc1g37)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [TCDCommons API](https://modrinth.com/project/Eldc1g37)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Text Placeholder API](https://modrinth.com/project/eXts2L7r)                    | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Visuality](https://modrinth.com/project/rI0hvYcd)                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR)              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Zoomify](https://modrinth.com/project/w7ThoJFB)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [[EMF] Entity Model Features](https://modrinth.com/project/4I1XuqiY)             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
-| [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1)           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [[EMF] Entity Model Features](https://modrinth.com/project/4I1XuqiY)             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1)           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [e4mc](https://modrinth.com/project/qANg5Jrr)                                    | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [libIPN](https://modrinth.com/project/onSQdWhM)                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ⚠️      |
+| [libIPN](https://modrinth.com/project/onSQdWhM)                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [(Bee's) Fancy Crops](https://modrinth.com/project/UGEVQ6t9)                     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [3D Default](https://modrinth.com/project/5aPp18Lx)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Better IPN Buttons](https://modrinth.com/project/mqZujIpC)                      | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Connected Paths](https://modrinth.com/project/Nyfj98b5)                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Eating Animation Resource Pack](https://modrinth.com/project/xOCLHTN8)          | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fast Better Grass](https://modrinth.com/project/dspVZXKP)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [Fresh Animations](https://modrinth.com/project/50dA9Sha)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [Fresh Animations](https://modrinth.com/project/50dA9Sha)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Low On Fire](https://modrinth.com/project/RRxvWKNC)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Recolourful Containers GUI + HUD (DARK)](https://modrinth.com/project/sQCUH0Mr) | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Torches Reimagined](https://modrinth.com/project/pfnQDIWs)                      | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Translations for Sodium](https://modrinth.com/project/yfDziwn1)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Complementary Shaders - Unbound](https://modrinth.com/project/R6NEzAwj)         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-
-⚠️ = Available on Modrinth, not on CurseForge
 
 ## 🌐 Looking for a server? Support me at the same time!
 

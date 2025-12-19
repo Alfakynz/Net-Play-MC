@@ -1,0 +1,13 @@
+name = "[ETF] Entity Texture Features - [Fabric & Forge]"
+filename = "entity_texture_features_1.21.11-fabric-7.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59a2970dcec4ae90f8d5dc9c2422ef874ca4611b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7339160
+project-id = 568563

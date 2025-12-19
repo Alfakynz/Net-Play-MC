@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "05d10796ebef6479c6c45911e184b59862bb6cee6cd4b16fa27aa6a872db5462"
+hash = "177df578f177b18dcbdc6dca4ea74931903443cd8afbbc11d879a48bf07d5264"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "5de0fb2492fc06ac160a00595ee38a95ae2321296e9b0b479387dd8a61dfd772"
+hash = "79f5d705581b57e5b5b9f0cf7c02e6e9b5ac27d743b708f7f7f8b95233f5501b"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "513c07e69b3d77b87db104f1a79428771875a42fe836eeb0133af67a0cbfefef"
+hash = "af36cbecd65a6ec39ac01181059470a17fef4923012d7491f956a5ddec19017c"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "2d3c8d1663d9fb45312137d1721cd0175075628ad498d5f5c4a3637c867ee404"
+hash = "3ba36e736300521785ffce9b2586c363cea9d0a302bde1d98e1d613288e91df1"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "a3e8ab5b65ff403b1e578f50465a67743ff2d6943bd47458be482e44f5642754"
+hash = "2edafdc423051b21edbe49f433e73e6ba3164dfb079673355003e0f889e7ddf3"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4b33874c269d57ff8b3331cf962621b95927aec107986ed11d04c22b7d0e22a4"
+hash = "ff76a84f9e6800845bdf192ee085e1c903d197d0fb2832dca2f5c025d13974a1"
 
 [[files]]
 file = "resourcepacks/better-ipn-buttons.pw.toml"
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "15f5872ee75d21be2e6cbd25669e423a2a764312562e5cdfdc4e34af160dc6d3"
+hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
 metafile = true
 
 [[files]]

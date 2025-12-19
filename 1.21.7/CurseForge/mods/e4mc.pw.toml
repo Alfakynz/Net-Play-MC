@@ -1,13 +1,13 @@
 name = "e4mc"
-filename = "e4mc_minecraft-fabric-5.5.0.jar"
+filename = "e4mc_minecraft-fabric-5.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "838b89720791207ccdb2862e72ae8e883d359b20"
+hash = "5470233346fc0592aa8b4e769a06c1147645aa1c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7328443
+file-id = 7343647
 project-id = 849519
