@@ -1,13 +1,13 @@
 name = "[ETF] Entity Texture Features"
-filename = "entity_texture_features_1.21.5-fabric-7.0.6.jar"
+filename = "entity_texture_features_1.21.5-fabric-7.0.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/lsfFfirz/entity_texture_features_1.21.5-fabric-7.0.6.jar"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/kftXMfet/entity_texture_features_1.21.5-fabric-7.0.8.jar"
 hash-format = "sha512"
-hash = "b7e4e95103be5b47c365f1179888d462146ec1b0a9c271f3110c3e60ef14aab2c11c44e437f2c5920a81b4f4ce04ae0071c067ee1f2cafa527a5e8809c2bd3b6"
+hash = "fd1fd8b363ef7124feb21110838253a74c179df718c1cb9ab1973f3ae888c5a62b17839c3a328135ba1d56417c5f81573ec46b038b2cfbfb31e7aa100ee7dae4"
 
 [update]
 [update.modrinth]
 mod-id = "BVzZfTc1"
-version = "lsfFfirz"
+version = "kftXMfet"

@@ -1,6 +1,7 @@
 name = "Dynamic Crosshair"
 filename = "dynamiccrosshair-9.10+1.21.5-fabric.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/ZtpHL0d2/dynamiccrosshair-9.10%2B1.21.5-fabric.jar"

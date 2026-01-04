@@ -1,0 +1,13 @@
+name = "Connected Bricks"
+filename = "Connected-Bricks 1.21.9+ v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mnKF5Qd2/versions/crnD5phv/Connected-Bricks%201.21.9%2B%20v1.0.zip"
+hash-format = "sha512"
+hash = "64a9ebe8a18023462771265cbb2e787e360e0236cfb7504a86387b129c004e2acefd06340d72ba72d0193345ed1c7aca6cd9809bedbf6f2f98bc59622bb19889"
+
+[update]
+[update.modrinth]
+mod-id = "mnKF5Qd2"
+version = "crnD5phv"

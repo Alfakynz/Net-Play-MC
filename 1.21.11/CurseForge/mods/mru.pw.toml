@@ -1,13 +1,13 @@
 name = "M.R.U"
-filename = "mru-1.0.25+edge+1.21.10-fabric.jar"
+filename = "mru-1.0.26+edge+1.21.11-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "896e1b355bf55c7dd9e1901e2d00be079d3afd2c"
+hash = "8b4d0803932c2edf6f521feb306bcd01a013a692"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7240781
+file-id = 7402592
 project-id = 669659

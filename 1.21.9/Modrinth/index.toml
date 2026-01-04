@@ -5,6 +5,10 @@ file = "config/betterf3.json"
 hash = "0028abb010568e5d31c2d12390a18a471a495591a24bf408abea3c151e8d234e"
 
 [[files]]
+file = "config/detailarmorbar.json"
+hash = "a5c688952ee55d6ac48c632baa5667d8adc20758ab2fd6c913c1b411bb4cad71"
+
+[[files]]
 file = "config/euphoria_patcher.properties"
 hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
 
@@ -23,6 +27,10 @@ hash = "93e098f8882bbfe9eaba05694016fff55a911114d1cea2a046915e6f4253d64b"
 [[files]]
 file = "config/jade/plugins.json"
 hash = "8daf20878a02aab8611856f409ea0b33f721ef1d5be4bad4053d446e9634ba28"
+
+[[files]]
+file = "config/no-more-popups.json"
+hash = "31e5140ee7bb35c73c8ae74eb785eca3c81caf235d467fd4a38e75e86e0a6aa7"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -167,22 +175,22 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
+hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "4a9def539ee4c0b32e12e148d1565a07916ad13ce9e6911864bfdb67f905c9c1"
+hash = "721dc09f5bccad9219a3dac7b80137392be31e11aa88157ac9953af28eb046f8"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "f7eb2e1d6caa93980176a8df1f32dc2d78fa5590a904f53b45492a6557307c5a"
+hash = "8b0b277d0995973ec6110af87f836f02699365bd072e52a4543ca56aa317fb6d"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f234a39f70e9a92f27cb5462616a1f8a78673804380c06d84e7c4ea5fa06e367"
+hash = "b7f3af0e77e5a5a32d5c8a4884e6e3792e418e10119bdfa9f7416da3e7000c2e"
 metafile = true
 
 [[files]]
@@ -192,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6d74eac8e7c0d542a37681dc808a1af1213fd91b5a9361cca1274d7426bb278e"
+hash = "05c4bab9b066b825a39ea67731ff5af15dfae112e1a7b17542f518bf72dd27a7"
 metafile = true
 
 [[files]]
@@ -216,6 +224,11 @@ hash = "65aaaca6973786baf12f943cb700deac5d9dee8a4813ec1368773c35653b18f8"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5014dd5897aff9ec19601d1a5dd3536611444a78e328fe97e6dccda60b18bda9"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
 metafile = true
@@ -232,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "66e5640c84fe40781fcf56aed57cd1cd4d8b0acd149cb0c2ad7ca9f6f16354cc"
+hash = "c282db3e99763d5df37aabb6b672816ec59848e965fc78a8c7d3b78387c55573"
 metafile = true
 
 [[files]]
@@ -292,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "802981efce132e93b99352dacae410bf7b3e356f2e9de14b0ff9cea0beb31bb9"
 metafile = true
 
 [[files]]
@@ -312,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "16ca9779ae1e66ad2468bbc94ca64107544e1c70210c4ae07980ac4ffbd67e4f"
+hash = "2c8a15014f09760e374c256db838ed43063727d28bb33ca81366be99a0773bf0"
 metafile = true
 
 [[files]]
@@ -417,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ff76a84f9e6800845bdf192ee085e1c903d197d0fb2832dca2f5c025d13974a1"
+hash = "ebd49372bf41fb8c30574c3bcf4c41b9032d5f42a8b7ef93548faa632628fc2f"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -430,8 +443,18 @@ hash = "badf75e4b5e40594e91989916fdcafe0f62fa1fd374fe8c8a76969e876d98dc8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/connected-bricks.pw.toml"
+hash = "90004e96d24c8124a8777e1b93eaac8f3e7fa956e6da78f0bc81fe9bad1e71a1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "3d81c2d42dadb03acc48f5e50763cbc52daf1557ad3104ba397c90e3a55814b4"
+hash = "8a28497dd331d0df43fe16427bb4c860dbf6bd36131ce5aea0a248f537697954"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-rocks.pw.toml"
+hash = "e52456412aea15035403af9be919c7bff92f5a4e3b913007d5a49b9d55009cd8"
 metafile = true
 
 [[files]]
@@ -471,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5c88e075533df7079b0ef77684f2a71bb8743722a755f24978b2a9a1405c4bd6"
+hash = "d77dfc3bf13ca53b19b15564800167012835deab25e6a97a09b4a699bd5843e8"
 metafile = true
 
 [[files]]

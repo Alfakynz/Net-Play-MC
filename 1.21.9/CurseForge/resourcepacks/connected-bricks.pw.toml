@@ -1,0 +1,13 @@
+name = "Connected Bricks"
+filename = "Connected-Bricks 1.21.9+ v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c7e7ab73dc9ea9d0e2fda6a37f280fa4d503d3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7374704
+project-id = 1412809

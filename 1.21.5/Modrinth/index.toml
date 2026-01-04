@@ -5,6 +5,10 @@ file = "config/betterf3.json"
 hash = "0028abb010568e5d31c2d12390a18a471a495591a24bf408abea3c151e8d234e"
 
 [[files]]
+file = "config/detailarmorbar.json"
+hash = "a5c688952ee55d6ac48c632baa5667d8adc20758ab2fd6c913c1b411bb4cad71"
+
+[[files]]
 file = "config/euphoria_patcher.properties"
 hash = "66793f6eb032dba20841b7b015cf96550baec9686ee9cf758edc2e41b193ec25"
 
@@ -23,6 +27,10 @@ hash = "93e098f8882bbfe9eaba05694016fff55a911114d1cea2a046915e6f4253d64b"
 [[files]]
 file = "config/jade/plugins.json"
 hash = "8daf20878a02aab8611856f409ea0b33f721ef1d5be4bad4053d446e9634ba28"
+
+[[files]]
+file = "config/no-more-popups.json"
+hash = "31e5140ee7bb35c73c8ae74eb785eca3c81caf235d467fd4a38e75e86e0a6aa7"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
@@ -88,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "ed903d0b2e147daecbe0ab26174685d0179cd587fcf533e55aa30886eda480b0"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
 metafile = true
 
 [[files]]
@@ -177,32 +190,32 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "9a386c47e3ee11b91e443d8ec1b6084eb0266b5ddbd127ea3e90c7fa4ff5d9fd"
+hash = "603ba0adb945b33b2a6cbfad78c7fe5e62dd79f0921e6a127142b7cb5b7966b9"
 metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "2f8519826d90f9a4f30ebd70fe179c87771c40d5f331046dd43806219bbe255a"
+hash = "0cf7b4d882067c04dbab9a77251d94de22d3b11b1b10cb7ccdf2218d4fb4a963"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "f7eb2e1d6caa93980176a8df1f32dc2d78fa5590a904f53b45492a6557307c5a"
+hash = "8b0b277d0995973ec6110af87f836f02699365bd072e52a4543ca56aa317fb6d"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ba29ee558399f3bc76515281041fff2f52cc0280a5fc2b97ab4672c509d86b9b"
+hash = "2f3f7f7c169e820c8108fca57eae5d222d62783a725e979a87c78c1ba4c5cf82"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b2664c7b264f3c2580dbcb268d06862c891ab15b2062d53b0d088d7a802f5380"
+hash = "f70de8af9e455784e38785d57e6591f041e47ab98d4cac670af3941a04eb3b49"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "529789c68b18fc16a2ef257e41a9f863e3a628ddf39b193bb79c8e36b4c6cdb3"
+hash = "f48fab32502e1db70e43ec5f2ebc05ab4c1b3a011c091489d372b4155316a381"
 metafile = true
 
 [[files]]
@@ -226,6 +239,11 @@ hash = "9a4362b464aba26573f224890b3ab08ed2a8832da5efff8b0f5c736f2a807126"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
@@ -242,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "66e5640c84fe40781fcf56aed57cd1cd4d8b0acd149cb0c2ad7ca9f6f16354cc"
+hash = "07d5736576d9083a02a99241dc0b471e086788900e97507a06287081d56c1919"
 metafile = true
 
 [[files]]
@@ -322,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-more-popups.pw.toml"
-hash = "16ca9779ae1e66ad2468bbc94ca64107544e1c70210c4ae07980ac4ffbd67e4f"
+hash = "2c8a15014f09760e374c256db838ed43063727d28bb33ca81366be99a0773bf0"
 metafile = true
 
 [[files]]
@@ -372,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b7836f8fc81f7286d85ef475716396f594f231e2d52ddb9fc517491c167e3fdc"
+hash = "3bf1c43ac0aab292410fe737da4e1024ab1140ac4e761a3bacf011f5696a72e4"
 metafile = true
 
 [[files]]
@@ -432,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ff76a84f9e6800845bdf192ee085e1c903d197d0fb2832dca2f5c025d13974a1"
+hash = "ebd49372bf41fb8c30574c3bcf4c41b9032d5f42a8b7ef93548faa632628fc2f"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -445,8 +463,18 @@ hash = "badf75e4b5e40594e91989916fdcafe0f62fa1fd374fe8c8a76969e876d98dc8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/connected-bricks.pw.toml"
+hash = "b8b1602c7b259656795d56e108421fbba1ed1769e452c93299dce32e7d50352e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/connected-paths.pw.toml"
-hash = "dc065d9bb3aaad0eefdf5158211929943835493c709e2fb7ed29a6d246ea9c06"
+hash = "a48c0063313ca6bb027668a668f95f7460a37929656f4fc5b6ad7cf5c228d187"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-rocks.pw.toml"
+hash = "632e46ab8fc7d1c95f7744bf4425f1b09665be2dd7e765296739edac316012a2"
 metafile = true
 
 [[files]]
@@ -486,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5c88e075533df7079b0ef77684f2a71bb8743722a755f24978b2a9a1405c4bd6"
+hash = "d77dfc3bf13ca53b19b15564800167012835deab25e6a97a09b4a699bd5843e8"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Connected Paths"
-filename = "Connected Paths v.1.4.1 - 1.21.8-.zip"
+filename = "Connected-Paths 1.14-1.21.8 v2.1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nyfj98b5/versions/2P7C9VrR/Connected%20Paths%20v.1.4.1%20-%201.21.8-.zip"
+url = "https://cdn.modrinth.com/data/Nyfj98b5/versions/Sa0buqkq/Connected-Paths%201.14-1.21.8%20v2.1.1.zip"
 hash-format = "sha512"
-hash = "63fd8b2fb85c3e7aec7e3832718b7ca557087b5250dc82c07874e3c8abeedbaff2f7e3308e8be958c9655021b4dd0fe2aa9343db4ab04def65c99fe21315dfe6"
+hash = "1f2c01b30f62d52ef53a237d5e56e0437eec8d1d6c2fd23f02b61561ff2b4665e49f7748d3e8c512770d0cfc93a54ab541c875ab0f54ca6df6da3c7fc6f442b4"
 
 [update]
 [update.modrinth]
 mod-id = "Nyfj98b5"
-version = "2P7C9VrR"
+version = "Sa0buqkq"
