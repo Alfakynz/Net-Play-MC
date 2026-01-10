@@ -90,7 +90,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "ec4e01e3491a41ebe4730e1149eaac058f35423fd90c6ed4cc2385eb25728abf"
+hash = "580c886922d88d7aa9df4f6c54666b197f7abced27af4dd68e8649c5beaacde5"
 metafile = true
 
 [[files]]
@@ -114,8 +114,18 @@ hash = "a8321c6d297c9a266a82600942a2b329f374abb9f3fdd0810499a2f26a082b2d"
 metafile = true
 
 [[files]]
+file = "mods/better-slots.pw.toml"
+hash = "7381967b1386650fb90df85d345dc78116adc858e10352549d34671256f2bd69"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "5176dd2dc37ddad767a58632819af70dba986999f7ca9a60ecca4e111ad91720"
+metafile = true
+
+[[files]]
 file = "mods/betterstats.pw.toml"
-hash = "fdf4dad1f1e12701d0569bcaa658157d2a5dad180e27c15b35f67a85d0cb967e"
+hash = "bc62c653a8b1a5eb0af7ce374430e9000bd999f4d5afb82e875d21fc13c11abd"
 metafile = true
 
 [[files]]
@@ -200,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4851e08949034729ae5e108626ea4dea2221a66d6428167fc75e1ed59245bc05"
+hash = "9122a51e1ac6fc5b832894205e8c276f776c66cb5f40c5a7d567ba9a2f7764b2"
 metafile = true
 
 [[files]]
@@ -245,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "2857a8dc942967be661710354790ccbd996f2c32d4b2c9ea7a5554ace3d98b97"
+hash = "f0b62d348d4685baa79db8f3319364c91f4fea21b0010dd8af2df0cf2bd130f4"
 metafile = true
 
 [[files]]
@@ -260,12 +270,12 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "f67e71b586da7240f422c1d57414a01b39f9edff7aa2484ce059ac68062af6be"
+hash = "87a2ed750ddf6559345f9c7a4513d46775d4032509a6d3689426867a2a60ef8a"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c1909b6cbaa1f5849181501e1e3619b4e1f606bb9efaeb21885941225303cdd8"
+hash = "0fe0bd27c16be118e7630fa957e0da728050015511acf696246208d5df59d16d"
 metafile = true
 
 [[files]]
@@ -290,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "0fef3ebf7fbbb9b6ccfc1ea1b7c38ddcca8cda86978c0f2f04121f22b26bc4e3"
+hash = "037f48cc503913e20d60a198fe1d6b40953e32cfb0fdff45361bbf1cdf6708ad"
 metafile = true
 
 [[files]]
@@ -325,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "89e18e632fcc8759e7d60f26c3bddb69ef6c802eb48d1387c056e53e7cab2fa9"
+hash = "7745c6e05de772a441306fc08dd5299ce4480e39d2d27addf4fd71ae5b66c4e9"
 metafile = true
 
 [[files]]
@@ -340,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3d673acd7330b39fd6696f26f9356af15e42ed6772e504150ee608fe2baf9428"
+hash = "756081c3965727c88a843949ad5b9758af3e677d31ad2dcbd53d4bdea61720de"
 metafile = true
 
 [[files]]
@@ -360,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ed23249832f32957c3835115160d9d8433bbfcfcf12bb0685e7cd2f7938c9b1d"
+hash = "6ac5b60f56dd437ab137fb33c7d4caa5b2f4cd29c58191db0e24178ddf52cc05"
 metafile = true
 
 [[files]]
@@ -395,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "692b7f775360faf75015ef40d93ed1992c29214dc9a7df60da88b4b7bdb101f3"
+hash = "eb9876fa0317ffa09fe9df3b615d3567086830c1274e2856c73c533717d53fae"
 metafile = true
 
 [[files]]
@@ -469,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "701813f85a323e9d5609dc31c911f5872dfb8a69a8ff753c113046e927cd5d1e"
+hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
 metafile = true
 
 [[files]]

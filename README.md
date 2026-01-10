@@ -23,7 +23,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/pPoD7Bg3
 | [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅      | ✅      |
 | [Better Selection](https://modrinth.com/project/xIpcAYJL)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [BetterF3](https://modrinth.com/project/8shC1gFX)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [BetterF3](https://modrinth.com/project/8shC1gFX)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Bridging Mod](https://modrinth.com/project/lO3s8hjs)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Cloth Config API](https://modrinth.com/project/9s6osm5g)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |

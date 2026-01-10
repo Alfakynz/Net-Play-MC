@@ -129,6 +129,11 @@ hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
+file = "mods/better-slots.pw.toml"
+hash = "7381967b1386650fb90df85d345dc78116adc858e10352549d34671256f2bd69"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "511a5c89a7a95d63c60733fd0b422e8cb3b788f60f386228ec714c3a3254905d"
 metafile = true
@@ -270,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "942d4ab5b57d6a660454133135d863a9272e1de7b825aa3242508722dffa7366"
+hash = "438eae85039c376994cb38528680f7ceabee6f0038c3cd21579070815e398a41"
 metafile = true
 
 [[files]]
@@ -435,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "3ccb5713e745db48dfcb6174853161d8fed60ecbdf770dc78ae5663f5b04f352"
+hash = "ab10efcd1a7818097f8c9a71e6fec5193408324ec35ccfb54deacbc53ab7735f"
 metafile = true
 
 [[files]]
@@ -509,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "701813f85a323e9d5609dc31c911f5872dfb8a69a8ff753c113046e927cd5d1e"
+hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
 metafile = true
 
 [[files]]

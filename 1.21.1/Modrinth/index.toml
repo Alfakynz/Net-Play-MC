@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "3fab60aca0fee9153c49b40e1b06b1deebb23800dce7b8b8f471e23f43f3efe5"
+hash = "42075a1e29aa311565c701e92d4bc2b7263a1f4f60c4be38eb55de1a289ee3e0"
 metafile = true
 
 [[files]]
@@ -134,6 +134,11 @@ hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
+file = "mods/better-slots.pw.toml"
+hash = "453a440b0b9570d6cd6c44acfee1435e35a82989eebaa37cc85144c9712e3450"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
 metafile = true
@@ -165,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "31535a06bf76553e83bd982eb3df9158b815cb7d0207a3fc719758d020d683b7"
+hash = "41440aa391c6fb6ba275a47a78c4353fb5a2e4a76b2cd8d91e7751c7507a2637"
 metafile = true
 
 [[files]]
@@ -280,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "fff3bd7b56f7f5866bacf83173ceb9d24c0a2684e4de6f8cb4d7f0173ff78455"
+hash = "44f1fbc496fb2d54467ccbe0df5362c54542193e33b8541ad75b532e1baf775e"
 metafile = true
 
 [[files]]
@@ -300,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
+hash = "6492b21e2a58e97ab65ff384db18606ce317ea3b78fad7051e6e34899fe8e85b"
 metafile = true
 
 [[files]]
@@ -395,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9c13a5497b1706986d7cedef548ea030e763c4b3029c8cc397cf9b0c0369f204"
+hash = "cc98ef15cb0fb331703af145ea92255765247a2b1d27b87d05a44ad0dc6d9b4e"
 metafile = true
 
 [[files]]
@@ -445,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2d0ca6e5a2077ae624a65a5310f36ddd6736de699748ac3959022e03844e2f52"
+hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
@@ -514,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d77dfc3bf13ca53b19b15564800167012835deab25e6a97a09b4a699bd5843e8"
+hash = "3bf261a2ce2d04c1044cfd12b1cdadd3e69904878b06e4ef0d579f521e7fe3f6"
 metafile = true
 
 [[files]]

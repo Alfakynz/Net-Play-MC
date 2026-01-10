@@ -90,7 +90,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f53a77d8e152c94ab65a613dc222b13585b173a38141d74076a3e3ffc0575519"
+hash = "bc4f47f976ecb38e6254de502976f468446f7250178699beba4b067b89469100"
 metafile = true
 
 [[files]]
@@ -129,6 +129,11 @@ hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
 
 [[files]]
+file = "mods/better-slots.pw.toml"
+hash = "7381967b1386650fb90df85d345dc78116adc858e10352549d34671256f2bd69"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5fe7e26e9534cf3d7829e8c4937c7b700d2084b6345aed901c1c3de9a80f49fa"
 metafile = true
@@ -160,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7112f698dda447ec4f1c6474683308487d51e93ec8dbe26c7f81d0fdd4c9fdb0"
+hash = "a018864cea9fc40963b318fc777d90d6b253403e40e6fde980372381a8a32015"
 metafile = true
 
 [[files]]
@@ -275,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "40fa748597b1da468d9d0ef756ab55bb591e214695b93ef66feafd7cd6520a33"
+hash = "ac595381310fefa95b5592b376bc46978bee6dcf839f4a8ff67d168bbbabb887"
 metafile = true
 
 [[files]]
@@ -295,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c7d2fb2997874b6ef69179a1bc3181e7e4431932903dc6a776784fadc10afa1c"
+hash = "630992568968b8141e9f65ab44b1fb96a6b524e4892b5e50c21d2da7167ad307"
 metafile = true
 
 [[files]]
@@ -385,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "05ac71bf8e11d27c8482d7b6ffec7eb6ce087fc7a22a055f04fe61a905ef3c34"
+hash = "db97e8fb8277b9ec01726d6ebc631966e0adaf996d40f95a8ea97ae98fdde505"
 metafile = true
 
 [[files]]
@@ -445,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f8b22a3818eb55e9b7eafa4cc6b1b44482b88524d4134d544dfb795d9aea058d"
+hash = "5b3d17e43a7ca6e877bad85b838a8c38f42d8c3922e305b7d88c723a0e573a48"
 metafile = true
 
 [[files]]
@@ -514,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "701813f85a323e9d5609dc31c911f5872dfb8a69a8ff753c113046e927cd5d1e"
+hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
 metafile = true
 
 [[files]]
