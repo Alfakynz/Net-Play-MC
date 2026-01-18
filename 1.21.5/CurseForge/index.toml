@@ -289,8 +289,8 @@ hash = "b15c3312a4cca50bf37dee2c669b8c52027b1264e4bd0800520471462596db24"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "e14ec56e94abe99027ec1310caab4886c13561139246896e2dcdd96216630744"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "cbc422c869ce4aa2ec6ebb67e33fbf5e4fcc879442a559361265b72312923a99"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4f35bf07c47be05766892e81398645c30980dbf31206dbe668ad496e868e47c8"
+hash = "c3089614a05025351aeb7160dc6b70d02119bd4338651492f20f9e42bc22cc82"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "ff7ff3076468c77cf5c6c703bba376749e521c8c53266743599dbafdf37b5caa"
+hash = "3cd5c6b160f3e4aceeb30552436470d1aff4de128f167dd5dfe3a38236bad972"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
+hash = "c8e0537a809bd784b937c5941182a1ad148810e3c7c5aad505a80e8364c5d64f"
 metafile = true
 
 [[files]]

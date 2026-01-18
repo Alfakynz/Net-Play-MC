@@ -1,12 +1,12 @@
 name = "Net Play MC"
 author = "Alfakynz"
-version = "1.3.0"
+version = "1.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "80000adf1fb71cb864c9b2062c2b933ee664156da5c7e3f282e577896d2abe8f"
+hash = "a08f4453d6533ed64e59e84ac2145212bc0c823cd467f3bad927083f55390d23"
 
 [versions]
 fabric = "0.18.4"

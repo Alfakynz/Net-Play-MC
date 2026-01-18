@@ -294,8 +294,8 @@ hash = "b31e45972ba08291e168f9d93ed14d679a8799983b7bce7ca38faa795a85bf3a"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "e74508278270d344120b5f82be0bc9f6c51747d7f94420d823192e287b04ad4d"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "1748ca980ffbcd70a55d23240fc0598afe6f66edb477ad68400cda91127eb57a"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "111b5f398a8d9e8b3eac6163b0a4bfb8f1048563e3ea7756c0fff0095b416789"
+hash = "59b360be150d3ea0c96402fa8178a44143a168190a75f702ff8df1f267843289"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1836c4b896229b4283d28009951c913b518df7aefd0ccb05f12cd954c3a7deb8"
+hash = "9197b6c2359c98253ec96c6ab10d49a30a262c3363adf6c4165861f5a16382ec"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
+hash = "c8e0537a809bd784b937c5941182a1ad148810e3c7c5aad505a80e8364c5d64f"
 metafile = true
 
 [[files]]

@@ -22,6 +22,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/pPoD7Bg3
 | [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅      | ✅      |
 | [Better Selection](https://modrinth.com/project/xIpcAYJL)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Better Slots](https://modrinth.com/project/FfJwv52l)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [BetterF3](https://modrinth.com/project/8shC1gFX)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Bridging Mod](https://modrinth.com/project/lO3s8hjs)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -51,7 +52,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/pPoD7Bg3
 | [InvMove Compat](https://modrinth.com/project/6IpcGP7T)                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Inventory Profiles Next](https://modrinth.com/project/O7RBXm3n)                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Iris Shaders](https://modrinth.com/project/YL57xq9U)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [ItemPhysic](https://modrinth.com/project/aT8BzaOj)                              | ✅     | ✅     | ❌     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [ItemPhysic Lite](https://modrinth.com/project/OuyCgP8t)                         | ✅     | ✅     | ❌     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Jade 🔍](https://modrinth.com/project/nvQzSEkH)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [JourneyMap](https://modrinth.com/project/lfHFW1mp)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Lithium](https://modrinth.com/project/gvQqBUqZ)                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |

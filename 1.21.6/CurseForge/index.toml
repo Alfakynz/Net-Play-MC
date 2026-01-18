@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "474dbec1a749b8a1af2504bf0380c77a3f5815ba4038614b91b873aae2fe57d8"
+hash = "4cf89a549262d776dbfb83426497abf1306383ba67b1ab0c85fd4b0f5aef2f39"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c41c88bf75d26b2b5eda3254ebfef62a6e8625d75c2a80cfe1207c95b9de2c5f"
+hash = "e4bed8b8645f05e50083c231402dc4a0809b04cf633ae3c456193937a80aacec"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
+hash = "c8e0537a809bd784b937c5941182a1ad148810e3c7c5aad505a80e8364c5d64f"
 metafile = true
 
 [[files]]

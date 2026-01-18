@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c1ee4714f23846f70b6a150d965990264eda55a9e213c1baa8472a7be05a12f9"
+hash = "18a58c448f9c1c558bb37ea711f50333aeaa0b26f8fa268e3c38b23713a49935"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "35655c9869f280f3bb2d81ecf06041b7b2cd6a038655fbfb5a9bb776f015795f"
+hash = "f196edcd302253c361531537a1eca6d041a464b445595aea0b354694d4d4289c"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "fda3a1a98c7c1adc53e60bdc71b5607c92b62683d0a72fc77584cf234cbab868"
+hash = "542942091bf1e47f4532bffb12f880ccb66c65f6f7c91140d04609e0eef29694"
 metafile = true
 
 [[files]]
@@ -284,8 +284,8 @@ hash = "ee13368a3c2b3f834eb152a661e642455df50f4f5b1688f1c34626c4b01b6620"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "cf70760763ba76bf324d12b1f03145f53929343e387a325af407f2fb37ed822c"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "6f55c0d6abed98ee255af3660fbf7f5dd531c1b54f6d42d24c67dd872a6b966e"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7f44fd433f995c8083c07ad9686b307b26691cc484e5ec41af2d1e4e7b5421fd"
+hash = "b9bb98767d6b26fd16a123020eb04b50e6ff575a5bfa37bd84247201bf05d143"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "24ec005442cecbe94a971c838eee430eef40b0bb15d4678a579436a5aaf9d865"
+hash = "7fbb6f1678e1f1c494ee16edf325be4488c4c9f10ad598a46bb6f101c5d1f899"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "95351a8e1eacbfe181024d281f5b87c93dd545319a21b5dd30ba45e4c8a94678"
+hash = "2476f7001c44c072f82a7cf1559bb9bf90beb37bcba2dcb2b11b6efe89f2b705"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
+hash = "c8e0537a809bd784b937c5941182a1ad148810e3c7c5aad505a80e8364c5d64f"
 metafile = true
 
 [[files]]

@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cf0a454a404f7bcfc679d1882b8bc564f2582ac22adc95d13288119dbd760011"
+hash = "d9bb477a944c92ae2f95d812f5344bdae01bf2f81b305bddabc090f72f3f63c6"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "35655c9869f280f3bb2d81ecf06041b7b2cd6a038655fbfb5a9bb776f015795f"
+hash = "f196edcd302253c361531537a1eca6d041a464b445595aea0b354694d4d4289c"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/free-inventory.pw.toml"
-hash = "fda3a1a98c7c1adc53e60bdc71b5607c92b62683d0a72fc77584cf234cbab868"
+hash = "542942091bf1e47f4532bffb12f880ccb66c65f6f7c91140d04609e0eef29694"
 metafile = true
 
 [[files]]
@@ -269,8 +269,8 @@ hash = "3b18173255e4e7b5e8c2946107f9b70989e5e6ebf31fcca137ca51ee3c23d6ba"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "87a2ed750ddf6559345f9c7a4513d46775d4032509a6d3689426867a2a60ef8a"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "9d96c1855d0863db712b9d70b11182ef5561c4e833eac4226638ddc7260a87ac"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "4e673197e4526592d81b1b44b98b0605fa5b07ba29c6fefec4cd7b1ef33cff77"
+hash = "4c219d4cd88b7cb8e20eb2c235d927d84b60691bf04b3ef21fe5a1c3b2760a39"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "83cd46844a7eaf027ecb3a952274fb97aa5d7936649e7b7c3c1d9c92c28adca7"
+hash = "c8e0537a809bd784b937c5941182a1ad148810e3c7c5aad505a80e8364c5d64f"
 metafile = true
 
 [[files]]
