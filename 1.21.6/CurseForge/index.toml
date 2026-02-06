@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "f4c6a51debdf1dae53f49bc87cbf878eb16150cf1c2d9e260f29077665833ba4"
+hash = "f4616dfd29cd0c7681270f96c84d4f448e7291192610e588fcd155618fa8268e"
 metafile = true
 
 [[files]]
@@ -195,17 +195,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4741f6b6190614414c2289db39b60e822a3172c412db122a23c67ece2ba92494"
+hash = "cfb47a09118cfaeb187f83f784fc90d14623d4a1431d53e471b8582987fc8866"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "2864c89aa5d04d6f319bce5f6a0cbfc731512956c9acd59fafd3e1e5a1e9e7b6"
+hash = "6969c19503843beb2348b468c7a79ca6d174c3c102d4790eb8d78b7e24409c4a"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f6e8aa647b533f104b6d03b3a2872801f0d2ddcff27cd62c2d9a048ca7daf85a"
+hash = "c6b1a35f6c15e3d412fe1f22fe7796294ce5cb30fa123640c0656098328492ab"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "212a90f8ab7004e831d3a956c27f8fd522b894569e7e4d36268d894f00cf5583"
+hash = "e4be66e4a797273c1cc2f939f7a6060e8c60a27959cc7ba2c350ce4cc132f57c"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
+hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
+hash = "e3d00ba5bb65702b984da8ee63dd6f87a1d0c2b818d0fb1d21e4197a591db73b"
 metafile = true
 
 [[files]]
@@ -445,11 +445,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ebd49372bf41fb8c30574c3bcf4c41b9032d5f42a8b7ef93548faa632628fc2f"
+hash = "b362f5a911ab199e37c8ca86f6509b7c0818d4ed2413c05f7b32b5d0b4f7efd4"
 
 [[files]]
 file = "resourcepacks/better-ipn-buttons.pw.toml"
 hash = "344cfb1bf3259c3534dc0b0737aef164f0f3c97ddf75f15fd564fbd93c427c0d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/circular-logs.pw.toml"
+hash = "4c0e61ba4bf259431f6d192e7d1411f8d282fc7c0fd2951b06be403a9a3b39f4"
 metafile = true
 
 [[files]]
@@ -470,6 +475,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/eating-animation-resource-pack.pw.toml"
 hash = "5da2d254ce79909463b3a1e655fd1ecab89449ec6c6f7f5e014b164263a9cd35"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "b0c220e91f79a3272059be9ae0b20fa31ea01a4ca2789ce2755de67f88dc8439"
 metafile = true
 
 [[files]]
@@ -509,10 +519,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c8e0537a809bd784b937c5941182a1ad148810e3c7c5aad505a80e8364c5d64f"
+hash = "60d3ff27230a4d359b03118db4e56d51cd06c4a6714336db3400bd2d29d364cf"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
 metafile = true

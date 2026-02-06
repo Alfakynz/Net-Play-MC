@@ -1,13 +1,13 @@
 name = "First-person Model"
-filename = "firstperson-fabric-2.6.1-mc1.21.10.jar"
+filename = "firstperson-fabric-2.6.2-mc1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/3qDQrNAY/firstperson-fabric-2.6.1-mc1.21.10.jar"
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/onLmqlFj/firstperson-fabric-2.6.2-mc1.21.10.jar"
 hash-format = "sha512"
-hash = "11a43e08a879699b599705beaf463805f97a0aad1aea91248aa26489d36ea6773236f7464e9f79544acba7b5a17ad0f5e9cb69c5260810483c3bf73a3102bfd7"
+hash = "9c38aac5b1dfec05fec226710692490e26acaec58e5ca0dcada442f51388c7092f2a129d450fe40af9b8fc64f7846464fa4ae36168e09f4ff6227abf5b77de77"
 
 [update]
 [update.modrinth]
 mod-id = "H5XMjpHi"
-version = "3qDQrNAY"
+version = "onLmqlFj"

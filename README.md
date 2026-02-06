@@ -27,6 +27,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/pPoD7Bg3
 | [BetterF3](https://modrinth.com/project/8shC1gFX)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Bridging Mod](https://modrinth.com/project/lO3s8hjs)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [CIT Resewn](https://modrinth.com/project/otVJckYQ)                              | ✅     | ❌     | ❌     | ❌     | ❌     | ❌     | ❌      | ❌      |
 | [Cloth Config API](https://modrinth.com/project/9s6osm5g)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Continuity](https://modrinth.com/project/1IjD5062)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅      | ✅      |
 | [CreativeCore](https://modrinth.com/project/OsZiaDHq)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
@@ -89,10 +90,12 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/pPoD7Bg3
 | [(Bee's) Fancy Crops](https://modrinth.com/project/UGEVQ6t9)                     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [3D Default](https://modrinth.com/project/5aPp18Lx)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Better IPN Buttons](https://modrinth.com/project/mqZujIpC)                      | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Circular Logs](https://modrinth.com/project/OAHZ2XF7)                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Connected Bricks](https://modrinth.com/project/mnKF5Qd2)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Connected Paths](https://modrinth.com/project/Nyfj98b5)                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Connected Rocks](https://modrinth.com/project/IE9kFeq9)                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Eating Animation Resource Pack](https://modrinth.com/project/xOCLHTN8)          | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
+| [Enchanted Books: Re-covered](https://modrinth.com/project/6gN7YVi7)             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fast Better Grass](https://modrinth.com/project/dspVZXKP)                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fresh Animations](https://modrinth.com/project/50dA9Sha)                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Low On Fire](https://modrinth.com/project/RRxvWKNC)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |

@@ -1,13 +1,13 @@
 name = "First-person Model"
-filename = "firstperson-fabric-2.6.1-mc1.21.5.jar"
+filename = "firstperson-fabric-2.6.2-mc1.21.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2fd54a01bafcc10c2b545b1e6906939974460ecd"
+hash = "34405d80413e3f27dbef2491ff21b1ac472fda36"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7322479
+file-id = 7513693
 project-id = 333287

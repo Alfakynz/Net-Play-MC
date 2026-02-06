@@ -90,7 +90,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "bc4f47f976ecb38e6254de502976f468446f7250178699beba4b067b89469100"
+hash = "553b8ec7d9384eb706accd299d3f49320c29ede26bccfaedda00969b3d11ed48"
 metafile = true
 
 [[files]]
@@ -154,6 +154,11 @@ hash = "57ecfa2a5e81966ef7046d443b076e2b94c85b9f0ad8d6cb126106e3d5967dd3"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d56a650e6a901b9e84052229a90662b507dda74df65285d3d6ae2a8c71fd9975"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
 metafile = true
@@ -195,12 +200,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "02a69054bfdf68319fac665feab07b0b2e0469685c86488ed189301f26df6b74"
+hash = "79a29ea91ba2e93faa2f7886e9c94a69db4d42bff295371515d8eaf2c4728af0"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "2864c89aa5d04d6f319bce5f6a0cbfc731512956c9acd59fafd3e1e5a1e9e7b6"
+hash = "6969c19503843beb2348b468c7a79ca6d174c3c102d4790eb8d78b7e24409c4a"
 metafile = true
 
 [[files]]
@@ -210,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f4fb9245abbdb8c359a4b4898e9c8f03e2908d32335e4e6e9650d001f669f9aa"
+hash = "13c8f59edd7258658f839dcf8ae1daaf658d14c56d7b4bea5743ab1bb6eccef8"
 metafile = true
 
 [[files]]
@@ -225,17 +230,17 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "212a90f8ab7004e831d3a956c27f8fd522b894569e7e4d36268d894f00cf5583"
+hash = "e4be66e4a797273c1cc2f939f7a6060e8c60a27959cc7ba2c350ce4cc132f57c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
+hash = "0364a64e7f6515dccf92e10512c81178b7afeb1ae031f8024620892769e69313"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
+hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
 metafile = true
 
 [[files]]
@@ -250,12 +255,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
+hash = "3aa66d677f5f23ddc8528f0c3243a9cbded0e27ea4b3db089ec0c8deecfb5704"
 metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "ef9f88669bc72b1e89798877f7dd8a3466738da8e96acf3a81de0f779b0be03f"
+hash = "4f474a2ce1551e7768871d6597dd72d819940c38b747d49306449a9645938453"
 metafile = true
 
 [[files]]
@@ -270,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9e2e75d2cf89eb66aaa1f9423cec14e8b496a8aa0cfa9142edc4441369ed977e"
+hash = "1c5e90c7879f5bbf069055aa60d04a86d8c80417b0a47d72b47cf16e3fb05f32"
 metafile = true
 
 [[files]]
@@ -300,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "630992568968b8141e9f65ab44b1fb96a6b524e4892b5e50c21d2da7167ad307"
+hash = "cec711d01e1e80f1410b99399438af02282edc1c60e79d9bdc7cb704f32b8908"
 metafile = true
 
 [[files]]
@@ -315,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "94944bc843327b8c13b34ee3ea4c16671d3102d5ae6845a48e5c86592d9696bb"
+hash = "4af07dd765be426fec46e72aa0a0b435b42d85bffe1ee87a100e661d881c90f2"
 metafile = true
 
 [[files]]
@@ -350,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ae0783f3455e72023fac34f0ebe965ad1b3dbd813f155e2f7fb97e2da029e103"
+hash = "60e228899f11917fd841bc3bdf3aeb503333440ca571db4d9a9f917272b97160"
 metafile = true
 
 [[files]]
@@ -460,11 +465,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ebd49372bf41fb8c30574c3bcf4c41b9032d5f42a8b7ef93548faa632628fc2f"
+hash = "b362f5a911ab199e37c8ca86f6509b7c0818d4ed2413c05f7b32b5d0b4f7efd4"
 
 [[files]]
 file = "resourcepacks/better-ipn-buttons.pw.toml"
 hash = "344cfb1bf3259c3534dc0b0737aef164f0f3c97ddf75f15fd564fbd93c427c0d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/circular-logs.pw.toml"
+hash = "4c0e61ba4bf259431f6d192e7d1411f8d282fc7c0fd2951b06be403a9a3b39f4"
 metafile = true
 
 [[files]]
@@ -480,6 +490,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/connected-rocks.pw.toml"
 hash = "86c9ec0b0d0d1cc3226f40116e25bb573e987d905bde72c81644e19ef9d4dc51"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "b0c220e91f79a3272059be9ae0b20fa31ea01a4ca2789ce2755de67f88dc8439"
 metafile = true
 
 [[files]]
@@ -519,10 +534,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c8e0537a809bd784b937c5941182a1ad148810e3c7c5aad505a80e8364c5d64f"
+hash = "60d3ff27230a4d359b03118db4e56d51cd06c4a6714336db3400bd2d29d364cf"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
+hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
 metafile = true
