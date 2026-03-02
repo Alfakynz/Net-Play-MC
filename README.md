@@ -43,7 +43,7 @@ You can download Net Play MC on [Modrinth](https://modrinth.com/project/pPoD7Bg3
 | [Fabric API](https://modrinth.com/project/P7dR8mSH)                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fabric Language Kotlin](https://modrinth.com/project/Ha28R6CL)                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Fast IP Ping](https://modrinth.com/project/9mtu0sUO)                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
-| [FastQuit](https://modrinth.com/project/x1hIzbuY)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ❌      |
+| [FastQuit](https://modrinth.com/project/x1hIzbuY)                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [FerriteCore](https://modrinth.com/project/uXXizFIs)                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [First-person Model](https://modrinth.com/project/H5XMjpHi)                      | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |
 | [Forge Config API Port](https://modrinth.com/project/ohNO6lps)                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅      | ✅      |

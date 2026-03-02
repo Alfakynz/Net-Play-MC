@@ -1,13 +1,13 @@
 name = "ItemPhysic Lite"
-filename = "ItemPhysicLite_FABRIC_v1.6.8_mc1.21.1.jar"
+filename = "ItemPhysicLite_FABRIC_v1.6.9_mc1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e612b4634ad6bb6c3421024de84a4e49fb2e78e7"
+hash = "e43ba24c49e9923a50d5c75f5847513847ca8466"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6374730
+file-id = 7610801
 project-id = 270441

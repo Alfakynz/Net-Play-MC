@@ -90,7 +90,7 @@ hash = "6f472441a8c7377731ff5f9ad43f46951595c8a4969d1ba4b1055aa185a38c23"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2d3cbf3d77196a08a014270238740515c1b634bc11ad83a51140d7bcfc62d6b3"
+hash = "34d6e65112fdfdd6cf2439ed9e16994aa52455493febe0cd87f8893a2f90560c"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9c07d950e90fcf8a5affaeb4cb1cb7ad8deb93a27e642a944ca3d0bf46d39d79"
+hash = "1cf8276c0543b00ece86a30afa06142fd0fa6950b9df7ba7fd388657b1ca756f"
 metafile = true
 
 [[files]]
@@ -200,12 +200,12 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b0a96ca2358570d64d7e0f8d6c65ca140034aee3f5296beffc5001fa52308631"
+hash = "26fbb6ed4d33303b68af2d305318ad333efc0577d16401481fcc1f0b1b030d6e"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "bf8c7e7fe9dd109e923b78780df29d49a1e057387a51d85dadeb1d86e784d223"
+hash = "28a6274b99c351c6331adc743d91a89d29f3578ba4e0a50f4ba71060061ae7f1"
 metafile = true
 
 [[files]]
@@ -215,12 +215,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "05c4bab9b066b825a39ea67731ff5af15dfae112e1a7b17542f518bf72dd27a7"
+hash = "bc93381428d6407f5c6fa7e49ea01818e85e48083bdcdd3a5d87b2176977e9fd"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "11d1ab5f73dd83745da03049ae2f805f657f3bf01a03d11de9243ee69df4f405"
+hash = "ff52d093b7eb904e076efac1a26971eaa408d6bcbc2f2faefc762e436743f1de"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "59027f9dffc874dc08b8b3fcc9dfd34e5b2225f6a7e32e8c1a7a866f20d33ca3"
+hash = "607226638962e02134429ead91114b31853eb281a2b7d3c25fc5fbef0edfb0f5"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "841afc13ac4ac945486c7431dfd88c39d490be09b1d1cddd25b6f6a24206a069"
+hash = "68adb0e307a621eaf3bffdafa000e97644a8b715f09a1c7a2474bd44abb809e0"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "438e4acdba47de3009a08ab141a44d604a24b3e32c28e8726c0ce7136b11f31c"
+hash = "37f0bc20da6968667e0f52d6689ed5f32c1d6256765fba4083700aeb42046e13"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a2f4d9dda96c16714c36b3ad813e1d720dd6d8d4bf87e5c0bbc7bf54ed62540e"
+hash = "44acdef628ff0435c751b93100dd1a3dfabd263039003d39b20cb6f35110060f"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "614ab32c2bfdecd7ea3ebd0f65afb06e2dd1c1e1009469ec3ad541a5068ec147"
+hash = "4747d4b3c7a30553c6db744749ed58e9db628369a2563ed04923338080ccd3b0"
 metafile = true
 
 [[files]]
@@ -440,12 +440,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0711719bcce3f5d52babf08b4ef2f00f771057b2cf2b3d554cf002c41ddacb9b"
+hash = "9190014654c3a01d217640032fccd571bf7d2e63b3f83d5b555da5e5e83f63ac"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b362f5a911ab199e37c8ca86f6509b7c0818d4ed2413c05f7b32b5d0b4f7efd4"
+hash = "d5cee41996a7cd5362e894253b6c8f5259de5cace79adcae53eface9e779623f"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
-hash = "ad058767e4c89ce0ca66168f4994ceb6e211da3a3192c3b51e7358a77a902d68"
+hash = "2b2660b21ab5873f9f153abab20b9410f9cb7f52e9b09b91e9348230d124fea8"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b8d26da196da9e4562c0f6430bf6a390c2e39eb88cfb75fae0e4c509aee0379d"
+hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
 metafile = true
 
 [[files]]

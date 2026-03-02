@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4acb0771742176e5e6c71a898b2c431f071d5072ad9b59fb84f33a690e384ff3"
+hash = "1cf8276c0543b00ece86a30afa06142fd0fa6950b9df7ba7fd388657b1ca756f"
 metafile = true
 
 [[files]]
@@ -190,12 +190,12 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b0a96ca2358570d64d7e0f8d6c65ca140034aee3f5296beffc5001fa52308631"
+hash = "26fbb6ed4d33303b68af2d305318ad333efc0577d16401481fcc1f0b1b030d6e"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "bf8c7e7fe9dd109e923b78780df29d49a1e057387a51d85dadeb1d86e784d223"
+hash = "28a6274b99c351c6331adc743d91a89d29f3578ba4e0a50f4ba71060061ae7f1"
 metafile = true
 
 [[files]]
@@ -205,12 +205,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "05c4bab9b066b825a39ea67731ff5af15dfae112e1a7b17542f518bf72dd27a7"
+hash = "bc93381428d6407f5c6fa7e49ea01818e85e48083bdcdd3a5d87b2176977e9fd"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "11d1ab5f73dd83745da03049ae2f805f657f3bf01a03d11de9243ee69df4f405"
+hash = "ff52d093b7eb904e076efac1a26971eaa408d6bcbc2f2faefc762e436743f1de"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
-hash = "614ab32c2bfdecd7ea3ebd0f65afb06e2dd1c1e1009469ec3ad541a5068ec147"
+hash = "4747d4b3c7a30553c6db744749ed58e9db628369a2563ed04923338080ccd3b0"
 metafile = true
 
 [[files]]
@@ -430,12 +430,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0711719bcce3f5d52babf08b4ef2f00f771057b2cf2b3d554cf002c41ddacb9b"
+hash = "9190014654c3a01d217640032fccd571bf7d2e63b3f83d5b555da5e5e83f63ac"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b362f5a911ab199e37c8ca86f6509b7c0818d4ed2413c05f7b32b5d0b4f7efd4"
+hash = "d5cee41996a7cd5362e894253b6c8f5259de5cace79adcae53eface9e779623f"
 
 [[files]]
 file = "resourcepacks/3d-default.pw.toml"
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/enchanted-books-re-covered.pw.toml"
-hash = "ad058767e4c89ce0ca66168f4994ceb6e211da3a3192c3b51e7358a77a902d68"
+hash = "2b2660b21ab5873f9f153abab20b9410f9cb7f52e9b09b91e9348230d124fea8"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b8d26da196da9e4562c0f6430bf6a390c2e39eb88cfb75fae0e4c509aee0379d"
+hash = "9e69ff252f521ee8ecf0df2dd4d851ff62ba1d080772d0c6ec398d8e203210d1"
 metafile = true
 
 [[files]]

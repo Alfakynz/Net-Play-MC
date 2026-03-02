@@ -1,13 +1,13 @@
 name = "Bridging Mod"
-filename = "BridgingMod-2.6.3+1.21.11.fabric-release.jar"
+filename = "BridgingMod-2.6.4+1.21.11.fabric-release.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lO3s8hjs/versions/SG12ySmn/BridgingMod-2.6.3%2B1.21.11.fabric-release.jar"
+url = "https://cdn.modrinth.com/data/lO3s8hjs/versions/PgIuiBj7/BridgingMod-2.6.4%2B1.21.11.fabric-release.jar"
 hash-format = "sha512"
-hash = "2676fb004a587d260361760e3609117090e55b89f93c62d84eeff80fead3e7454f8014eccc44198710d4a6ca509691083583a5c54ae82aaf7919952539561614"
+hash = "bf0e9921f560d9594c75047da28b1112309edf78dbb56299801a8cd8a6524525b01ef449ed663f3364833fab793ce1d8fb1ba70e743360e2aef5d5553b9c596e"
 
 [update]
 [update.modrinth]
 mod-id = "lO3s8hjs"
-version = "SG12ySmn"
+version = "PgIuiBj7"
