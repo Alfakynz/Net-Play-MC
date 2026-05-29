@@ -1,13 +1,13 @@
 name = "Free Inventory"
-filename = "free-inventory-1.2.0.jar"
+filename = "free-inventory-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aed45400e2ac44341c0560d2d1d1ecbfb80007f4"
+hash = "d60402c7ed5b9eaba63bb9e6f9b8c1f29318227c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7448393
+file-id = 7716334
 project-id = 1393069

@@ -1,13 +1,13 @@
 name = "Low On Fire"
-filename = "LowOnFire v1.21.11§8.zip"
+filename = "LowOnFire v26.1§8.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1141d51dd3ff6c6383ef5689278931b324ab28ad"
+hash = "96932a034fff4cd0cad08ba12db730450c4772da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7340615
+file-id = 7825035
 project-id = 580683

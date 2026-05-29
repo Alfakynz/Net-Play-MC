@@ -1,13 +1,13 @@
 name = "GeForceLegend's 3D Default"
-filename = "3D Default 1.21.2+ v1.13.1.zip"
+filename = "3D Default 1.21.2+ v1.14.0.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5094b45d3b453030c342bca77ba992e323a098b5"
+hash = "5b3f16e0b7e67f84824b30229485ee299c11395d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7314230
+file-id = 7811555
 project-id = 496311

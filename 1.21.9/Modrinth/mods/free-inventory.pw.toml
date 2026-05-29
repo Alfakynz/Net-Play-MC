@@ -1,13 +1,13 @@
 name = "Free Inventory"
-filename = "free-inventory-1.2.0.jar"
+filename = "free-inventory-1.2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PSmNv4li/versions/22ION4MP/free-inventory-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/PSmNv4li/versions/UP3XIpuA/free-inventory-1.2.1.jar"
 hash-format = "sha512"
-hash = "f3f0caa47d84fee008417d4ba889dc51b7136440f461eca6a5c045e38895a5e3f9bdc52f2861b3970f0763cafb7d0bd2be94bac772823a07a55e6437a70bf125"
+hash = "99a04cb1ad73a95bfcee9c4cb836c4a9dda3c18cf0a725b07253165ed6ef0c4c8183dc4719fefed23c5962dc6731e5e7f70c8a782e9d5c3e72cc3482619f9dca"
 
 [update]
 [update.modrinth]
 mod-id = "PSmNv4li"
-version = "22ION4MP"
+version = "UP3XIpuA"

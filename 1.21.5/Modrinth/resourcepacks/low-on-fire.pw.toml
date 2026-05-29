@@ -1,13 +1,13 @@
 name = "Low On Fire"
-filename = "LowOnFire 1.21.5.zip"
+filename = "LowOnFire v26.1§8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RRxvWKNC/versions/1f8dBcdi/LowOnFire%201.21.5.zip"
+url = "https://cdn.modrinth.com/data/RRxvWKNC/versions/51HGHxtv/LowOnFire%20v26.1%C2%A78.zip"
 hash-format = "sha512"
-hash = "a4c767dc3f9de804b01d4365de86e60aa7781b6725f906afb9b939da675f804b67b93b3840fdc4dd263e11530f9960a28b2c48237db3f7381813bcd4212765b2"
+hash = "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e"
 
 [update]
 [update.modrinth]
 mod-id = "RRxvWKNC"
-version = "1f8dBcdi"
+version = "51HGHxtv"
